@@ -12,7 +12,8 @@ from werkzeug.middleware.proxy_fix import ProxyFix
 app = Flask(__name__)
 app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 
-QUESTIONS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'questions.json')
+QUESTIONS_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), 'Questions', 'questions.json')
 PORT = 5000
 
 # ══════════════════════════════════════════════════════════
