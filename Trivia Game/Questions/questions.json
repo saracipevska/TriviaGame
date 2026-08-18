@@ -1,0 +1,114 @@
+{
+  "topics": {
+    "Italy": [
+      {
+        "question": "Which city was the center of the Renaissance and is home to the Uffizi Gallery?",
+        "answer": "Florence"
+      },
+      {
+        "question": "What independent city-state is completely surrounded by Rome?",
+        "answer": "Vatican City"
+      },
+      {
+        "question": "Which Italian explorer is traditionally credited with reaching the Americas in 1492 under the Spanish crown?",
+        "answer": "Christopher Columbus"
+      },
+      {
+        "question": "What sea lies to the east of most of mainland Italy?",
+        "answer": "The Adriatic Sea"
+      },
+      {
+        "question": "Which Italian city is especially associated with the automobile brands Fiat and Juventus football club?",
+        "answer": "Turin"
+      }
+    ],
+    "Architecture": [
+      {
+        "question": "Which architect is strongly associated with Fallingwater in Pennsylvania?",
+        "answer": "Frank Lloyd Wright"
+      },
+      {
+        "question": "What style of architecture is characterized by flying buttresses and rose windows?",
+        "answer": "Gothic architecture"
+      },
+      {
+        "question": "Which Spanish architect designed the Sagrada Familia?",
+        "answer": "Antoni Gaudí"
+      },
+      {
+        "question": "What is the horizontal beam that rests on top of columns called in classical architecture?",
+        "answer": "An entablature"
+      },
+      {
+        "question": "The Burj Khalifa, the world's tallest building, is located in which city?",
+        "answer": "Dubai"
+      }
+    ],
+    "Sea World": [
+      {
+        "question": "What is the name of the tiny drifting organisms that form the base of many marine food chains?",
+        "answer": "Plankton"
+      },
+      {
+        "question": "Which ocean is generally considered the smallest of the world's five oceans?",
+        "answer": "The Arctic Ocean"
+      },
+      {
+        "question": "What is the common name for a shark's flexible skeleton material?",
+        "answer": "Cartilage"
+      },
+      {
+        "question": "Which marine mammal is known for having a long tusk and living in Arctic waters?",
+        "answer": "Narwhal"
+      },
+      {
+        "question": "What term is used for animals that can live both on land and in water, such as frogs?",
+        "answer": "Amphibians"
+      }
+    ],
+    "Space and Universe": [
+      {
+        "question": "Which planet is closest to the Sun?",
+        "answer": "Mercury"
+      },
+      {
+        "question": "What is the name of the first artificial satellite sent into space?",
+        "answer": "Sputnik 1"
+      },
+      {
+        "question": "What do astronomers call a star that suddenly brightens explosively at the end of its life?",
+        "answer": "A supernova"
+      },
+      {
+        "question": "Which planet rotates on its side compared with most other planets in the solar system?",
+        "answer": "Uranus"
+      },
+      {
+        "question": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+        "answer": "The event horizon"
+      }
+    ],
+    "Famous Brands": [
+      {
+        "question": "Which company owns the luxury car brands Bentley, Audi, and Porsche?",
+        "answer": "Volkswagen Group"
+      },
+      {
+        "question": "Which brand's logo features three stripes and is a major rival of Nike?",
+        "answer": "Adidas"
+      },
+      {
+        "question": "Which South Korean brand is one of the world's largest smartphone manufacturers alongside Apple?",
+        "answer": "Samsung"
+      },
+      {
+        "question": "Which company created the PlayStation game console?",
+        "answer": "Sony"
+      },
+      {
+        "question": "Which global furniture retailer is known for flat-pack products and Swedish roots?",
+        "answer": "IKEA"
+      }
+    ]
+  }
+}

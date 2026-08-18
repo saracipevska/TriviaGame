@@ -1,0 +1,614 @@
+{
+    "topics": {
+        "TV Shows": [
+            {
+                "question": "In 'Breaking Bad,' what is the name of the poisonous plant Walter White uses to poison Brock?",
+                "answer": "Lily of the Valley"
+            },
+            {
+                "question": "What is the real name of the character 'Jon Snow' as revealed in the final seasons of Game of Thrones?",
+                "answer": "Aegon Targaryen"
+            },
+            {
+                "question": "In 'The Office' (US), which character started the fire in the office by leaving a cheese pita in the toaster oven?",
+                "answer": "Ryan Howard"
+            },
+            {
+                "question": "What is the name of the fictional town where 'Stranger Things' takes place?",
+                "answer": "Hawkins, Indiana"
+            },
+            {
+                "question": "In 'Friends,' what is the name of Joey's stuffed penguin?",
+                "answer": "Hugsy"
+            },
+            {
+                "question": "Which actor played the titular role in the medical drama 'House M.D.'?",
+                "answer": "Hugh Laurie"
+            },
+            {
+                "question": "In 'The Sopranos,' what is the name of Tony Soprano's favorite racehorse?",
+                "answer": "Pie-O-My"
+            },
+            {
+                "question": "What is the name of the coffee shop where the characters of 'Seinfeld' frequently hang out?",
+                "answer": "Monk's Caf\u00e9"
+            },
+            {
+                "question": "In 'Mad Men,' what is the name of the advertising agency originally founded by Don Draper, Roger Sterling, and Bert Cooper?",
+                "answer": "Sterling Cooper"
+            },
+            {
+                "question": "Which television series features a mysterious organization known as the Dharma Initiative?",
+                "answer": "Lost"
+            },
+            {
+                "question": "In 'The Wire,' what is the name of the Baltimore newspaper featured prominently in season 5?",
+                "answer": "The Baltimore Sun"
+            },
+            {
+                "question": "What is the name of the company that produces the titular androids in 'Westworld'?",
+                "answer": "Delos Incorporated"
+            },
+            {
+                "question": "In 'Better Call Saul,' what is the name of Chuck McGill's rare medical condition, according to his own diagnosis?",
+                "answer": "Electromagnetic hypersensitivity"
+            },
+            {
+                "question": "Which classic sci-fi series features a character named 'Number Six' trapped in a mysterious village?",
+                "answer": "The Prisoner"
+            },
+            {
+                "question": "In 'Twin Peaks,' what is the name of the alternate dimension accessible through the Glastonbury Grove?",
+                "answer": "The Black Lodge"
+            },
+            {
+                "question": "Who composed the opening theme for the HBO series 'Succession'?",
+                "answer": "Nicholas Britell"
+            },
+            {
+                "question": "In 'Doctor Who,' what does the acronym TARDIS stand for?",
+                "answer": "Time and Relative Dimension in Space"
+            },
+            {
+                "question": "In the show 'Frasier,' what is the name of Frasier's radio show producer?",
+                "answer": "Roz Doyle"
+            },
+            {
+                "question": "In 'The X-Files,' what alias does the Cigarette Smoking Man sometimes use?",
+                "answer": "C.G.B. Spender"
+            },
+            {
+                "question": "In the animated series 'Avatar: The Last Airbender,' what is the name of Zuko's mother?",
+                "answer": "Ursa"
+            },
+            {
+                "question": "Which long-running animated show technically holds the record for most guest stars, but most of them play themselves?",
+                "answer": "The Simpsons"
+            },
+            {
+                "question": "In 'How I Met Your Mother,' what color is the umbrella associated with the titular mother?",
+                "answer": "Yellow"
+            },
+            {
+                "question": "In 'Sherlock,' what is the password to Irene Adler's phone?",
+                "answer": "I AM SHERLOCKED"
+            },
+            {
+                "question": "What TV show features a character who frequently uses the catchphrase 'Bazinga!', even though it isn't said until the season 2 finale?",
+                "answer": "The Big Bang Theory"
+            },
+            {
+                "question": "In the opening credits of 'The Simpsons,' what does the cash register display when Maggie is scanned?",
+                "answer": "$847.63 (the estimated monthly cost of raising a child in 1989)"
+            },
+            {
+                "question": "Which sitcom was originally titled 'Insomnia Cafe'?",
+                "answer": "Friends"
+            },
+            {
+                "question": "How many times did Ross Geller get divorced in 'Friends'?",
+                "answer": "Three times"
+            },
+            {
+                "question": "In 'Breaking Bad', what color is the teddy bear that falls into Walter White's pool?",
+                "answer": "Pink"
+            },
+            {
+                "question": "Which hit series was originally pitched as a movie about a man given six weeks to live, but turned into a show about a man given two years?",
+                "answer": "Breaking Bad"
+            },
+            {
+                "question": "In 'Seinfeld', what is Kramer's first name, which isn't revealed until season 6?",
+                "answer": "Cosmo"
+            }
+        ],
+        "Food Around the World": [
+            {
+                "question": "What is the main ingredient in the Middle Eastern dish falafel?",
+                "answer": "Chickpeas or fava beans"
+            },
+            {
+                "question": "Which country is the origin of the spicy soup Tom Yum?",
+                "answer": "Thailand"
+            },
+            {
+                "question": "Halloumi cheese, known for its high melting point, originated in which Mediterranean island nation?",
+                "answer": "Cyprus"
+            },
+            {
+                "question": "What vegetable is the primary ingredient in a traditional Greek moussaka?",
+                "answer": "Eggplant"
+            },
+            {
+                "question": "Which South American country is famous for ceviche, a dish of raw fish cured in citrus juices?",
+                "answer": "Peru"
+            },
+            {
+                "question": "What is the national dish of Hungary, a stew of meat and vegetables seasoned with paprika?",
+                "answer": "Goulash"
+            },
+            {
+                "question": "In Japanese cuisine, what is the name of the thick wheat noodles often served in a hot broth?",
+                "answer": "Udon"
+            },
+            {
+                "question": "What kind of meat is traditionally used in the preparation of an authentic Wiener Schnitzel?",
+                "answer": "Veal"
+            },
+            {
+                "question": "Which country is known for the fermented cabbage dish called Kimchi?",
+                "answer": "South Korea"
+            },
+            {
+                "question": "What popular Mexican sauce is made from chocolate, chili peppers, and various spices?",
+                "answer": "Mole"
+            },
+            {
+                "question": "What is the primary ingredient of the Scottish delicacy haggis, aside from sheep's pluck?",
+                "answer": "Oatmeal"
+            },
+            {
+                "question": "What specific type of fungus is highly prized in French cuisine and often hunted using trained pigs or dogs?",
+                "answer": "Truffles"
+            },
+            {
+                "question": "In Ethiopian cuisine, what is the name of the spongy sourdough flatbread used to scoop up food?",
+                "answer": "Injera"
+            },
+            {
+                "question": "Which fragrant spice is derived from the stigma of a crocus flower and is essential in Spanish paella?",
+                "answer": "Saffron"
+            },
+            {
+                "question": "What is the name of the traditional Brazilian stew of black beans and various meats, often considered the national dish?",
+                "answer": "Feijoada"
+            },
+            {
+                "question": "Which Indonesian dish consists of meat skewers grilled over charcoal and typically served with peanut sauce?",
+                "answer": "Satay"
+            },
+            {
+                "question": "What specialized knife is traditionally used by sushi chefs to slice raw fish for sashimi?",
+                "answer": "Yanagiba"
+            },
+            {
+                "question": "What type of milk is traditionally used to make authentic Italian Mozzarella di Bufala?",
+                "answer": "Water buffalo milk"
+            },
+            {
+                "question": "What is the name of the toxic pufferfish considered a delicacy in Japan, which requires years of training to prepare safely?",
+                "answer": "Fugu"
+            },
+            {
+                "question": "In Indian cuisine, what is 'ghee'?",
+                "answer": "Clarified butter"
+            },
+            {
+                "question": "Despite its name, which popular 'French' fried food was likely invented in Belgium?",
+                "answer": "French fries"
+            },
+            {
+                "question": "Which spicy 'Mexican' food dish actually originated in Texas, making it Tex-Mex rather than authentic Mexican?",
+                "answer": "Chili con carne"
+            },
+            {
+                "question": "What common tropical fruit is known for smelling terrible but tasting delicious, often banned on public transport in Southeast Asia?",
+                "answer": "Durian"
+            },
+            {
+                "question": "Which popular 'Japanese' cookie, containing a paper fortune, was actually popularized in California?",
+                "answer": "Fortune cookie"
+            },
+            {
+                "question": "What type of edible item is 'Bombay Duck,' despite the name?",
+                "answer": "A fish"
+            },
+            {
+                "question": "Botanically speaking, peanuts are not nuts. What type of plant are they?",
+                "answer": "Legumes"
+            },
+            {
+                "question": "Which widely used culinary 'vegetable' was legally declared a vegetable by the U.S. Supreme Court in 1893, despite botanically being a fruit?",
+                "answer": "Tomato"
+            },
+            {
+                "question": "What flavor is the liqueur 'Amaretto'?",
+                "answer": "Almond"
+            },
+            {
+                "question": "Which country consumes the most coffee per capita in the world?",
+                "answer": "Finland"
+            },
+            {
+                "question": "What color was the original carrot before Dutch growers cultivated the modern orange variety in the 17th century?",
+                "answer": "Purple"
+            }
+        ],
+        "Human Body": [
+            {
+                "question": "What is the longest and strongest bone in the human body?",
+                "answer": "Femur"
+            },
+            {
+                "question": "Which organ is responsible for producing insulin in the human body?",
+                "answer": "Pancreas"
+            },
+            {
+                "question": "What is the name of the pigment that gives human skin, hair, and eyes their color?",
+                "answer": "Melanin"
+            },
+            {
+                "question": "What component of red blood cells binds to oxygen and carries it throughout the body?",
+                "answer": "Hemoglobin"
+            },
+            {
+                "question": "Which human organ is capable of naturally regenerating itself even after up to 75 percent of it has been removed?",
+                "answer": "Liver"
+            },
+            {
+                "question": "What is the anatomical term for the voice box?",
+                "answer": "Larynx"
+            },
+            {
+                "question": "How many chambers does the human heart have?",
+                "answer": "Four"
+            },
+            {
+                "question": "Which part of the brain is primarily responsible for coordinating balance and movement?",
+                "answer": "Cerebellum"
+            },
+            {
+                "question": "What is the name of the tube that connects the throat to the stomach?",
+                "answer": "Esophagus"
+            },
+            {
+                "question": "Which blood type is known as the universal donor?",
+                "answer": "O-negative"
+            },
+            {
+                "question": "What is the name of the smallest bone in the human body, located in the middle ear?",
+                "answer": "Stapes (or stirrup)"
+            },
+            {
+                "question": "Which cranial nerve is the longest, extending from the brainstem down to the abdomen?",
+                "answer": "Vagus nerve"
+            },
+            {
+                "question": "What is the specific name of the muscle that separates the chest cavity from the abdomen and plays a vital role in breathing?",
+                "answer": "Diaphragm"
+            },
+            {
+                "question": "Which enzyme, found in saliva, begins the digestive process by breaking down starches?",
+                "answer": "Amylase"
+            },
+            {
+                "question": "What are the tiny, finger-like projections in the small intestine that increase surface area for nutrient absorption called?",
+                "answer": "Villi"
+            },
+            {
+                "question": "Which hormone is commonly known as the 'sleep hormone' because it regulates the sleep-wake cycle?",
+                "answer": "Melatonin"
+            },
+            {
+                "question": "What is the medical term for the shoulder blade?",
+                "answer": "Scapula"
+            },
+            {
+                "question": "Which type of white blood cell is primarily targeted and destroyed by the HIV virus?",
+                "answer": "CD4 T cells (or Helper T cells)"
+            },
+            {
+                "question": "What is the term for the fluid inside a cell, exclusive of the nucleus, in which organelles are suspended?",
+                "answer": "Cytoplasm"
+            },
+            {
+                "question": "In the human eye, what is the name of the spot on the retina where the optic nerve exits, lacking light-detecting cells?",
+                "answer": "The blind spot"
+            },
+            {
+                "question": "Like fingerprints, every person has a unique print of what other body part?",
+                "answer": "Tongue"
+            },
+            {
+                "question": "What facial features continue to slowly grow larger throughout your entire life due to cartilage changes?",
+                "answer": "The nose and ears"
+            },
+            {
+                "question": "About how many bones does a human baby have at birth compared to the 206 bones in an adult?",
+                "answer": "Around 300"
+            },
+            {
+                "question": "What is the only muscle in the human body that is attached at only one end?",
+                "answer": "The tongue"
+            },
+            {
+                "question": "Despite being composed mostly of water and fat, what organ consumes about 20 percent of the body's total oxygen and energy?",
+                "answer": "The brain"
+            },
+            {
+                "question": "What part of the human body cannot heal itself because it lacks living cells?",
+                "answer": "Tooth enamel"
+            },
+            {
+                "question": "Are human teeth considered bones?",
+                "answer": "No"
+            },
+            {
+                "question": "What substance makes up about 60 percent of the human body by weight?",
+                "answer": "Water"
+            },
+            {
+                "question": "Which fingernail typically grows the fastest?",
+                "answer": "The nail on the middle finger"
+            },
+            {
+                "question": "Although often blamed on genetics, what bodily process is entirely responsible for the 'pruney' wrinkles on your fingers when submerged in water?",
+                "answer": "Nervous system reaction to improve grip underwater"
+            }
+        ],
+        "Ancient Civilizations": [
+            {
+                "question": "Which ancient civilization built the city of Machu Picchu in the Andes mountains?",
+                "answer": "The Inca Empire"
+            },
+            {
+                "question": "What ancient writing system, characterized by wedge-shaped marks on clay tablets, was developed by the Sumerians?",
+                "answer": "Cuneiform"
+            },
+            {
+                "question": "Which Egyptian pharaoh is famous for having an intact tomb discovered by Howard Carter in 1922?",
+                "answer": "Tutankhamun"
+            },
+            {
+                "question": "What ancient trade route connected China to the Mediterranean Sea, facilitating the exchange of goods and culture?",
+                "answer": "The Silk Road"
+            },
+            {
+                "question": "Which ancient Greek city-state was known for its strict military culture and intense training of male citizens?",
+                "answer": "Sparta"
+            },
+            {
+                "question": "What impressive amphitheater in Rome was used for gladiatorial contests and public spectacles?",
+                "answer": "The Colosseum"
+            },
+            {
+                "question": "Who was the famous queen of ancient Egypt who formed alliances with Julius Caesar and Mark Antony?",
+                "answer": "Cleopatra VII"
+            },
+            {
+                "question": "The ruins of Pompeii were preserved under volcanic ash after the eruption of which volcano in 79 AD?",
+                "answer": "Mount Vesuvius"
+            },
+            {
+                "question": "Which ancient Mesoamerican civilization is known for its complex calendar system and pyramids like Chichen Itza?",
+                "answer": "The Maya"
+            },
+            {
+                "question": "What river was fundamental to the survival and flourishing of the ancient Egyptian civilization?",
+                "answer": "The Nile River"
+            },
+            {
+                "question": "The ancient city of Carthage, a powerful rival to Rome, was located in which modern-day country?",
+                "answer": "Tunisia"
+            },
+            {
+                "question": "Who was the founder of the Persian Achaemenid Empire, known for his policy of religious tolerance and the writing of the first charter of human rights?",
+                "answer": "Cyrus the Great"
+            },
+            {
+                "question": "In ancient Mesopotamian mythology, what is the name of the epic hero who searches for immortality after the death of his friend Enkidu?",
+                "answer": "Gilgamesh"
+            },
+            {
+                "question": "Which Chinese emperor ordered the creation of the Terracotta Army to protect him in the afterlife?",
+                "answer": "Qin Shi Huang"
+            },
+            {
+                "question": "What ancient Minoan palace on the island of Crete is associated with the myth of the Minotaur and the Labyrinth?",
+                "answer": "Knossos"
+            },
+            {
+                "question": "Which ancient civilization flourished in the Indus Valley and built well-planned cities like Harappa and Mohenjo-Daro?",
+                "answer": "The Indus Valley Civilization"
+            },
+            {
+                "question": "During the Roman Republic, what was the title of the two chief magistrates elected annually to lead the government and army?",
+                "answer": "Consuls"
+            },
+            {
+                "question": "Which Hellenistic mathematician and inventor is credited with discovering the principle of buoyancy while taking a bath?",
+                "answer": "Archimedes"
+            },
+            {
+                "question": "What was the name of the ancient library in Egypt that was one of the largest and most significant libraries of the ancient world?",
+                "answer": "The Library of Alexandria"
+            },
+            {
+                "question": "In the Aztec religion, who was the feathered serpent deity of wind, air, and learning?",
+                "answer": "Quetzalcoatl"
+            },
+            {
+                "question": "Which ancient structure is often incorrectly cited as being visible from the moon with the naked eye?",
+                "answer": "The Great Wall of China"
+            },
+            {
+                "question": "Cleopatra, the last active ruler of the Ptolemaic Kingdom of Egypt, was not actually Egyptian by ancestry. What was her primary heritage?",
+                "answer": "Greek (Macedonian)"
+            },
+            {
+                "question": "Julius Caesar was famously assassinated on the 'Ides of March.' What exact date is this?",
+                "answer": "March 15th"
+            },
+            {
+                "question": "Although known as Arabic numerals, the numbers we use today (0-9) actually originated in which ancient civilization?",
+                "answer": "Ancient India"
+            },
+            {
+                "question": "Which ancient wonder of the world is the only one still largely intact today?",
+                "answer": "The Great Pyramid of Giza"
+            },
+            {
+                "question": "While the Roman Empire is famous for its roads, which earlier empire built the 'Royal Road' connecting Sardis to Susa?",
+                "answer": "The Persian Empire"
+            },
+            {
+                "question": "The term 'Pharaoh' was not originally used as a title for the ruler of Egypt. What did the word originally refer to?",
+                "answer": "The 'Great House' or royal palace"
+            },
+            {
+                "question": "Which ancient Mesoamerican culture is famous for carving colossal stone heads?",
+                "answer": "The Olmecs"
+            },
+            {
+                "question": "Despite being called 'The Holy Roman Empire,' this political entity was primarily located in which modern-day country?",
+                "answer": "Germany"
+            },
+            {
+                "question": "True or false: Gladiators in ancient Rome always fought to the death.",
+                "answer": "False"
+            }
+        ],
+        "European Capitals": [
+            {
+                "question": "Which European capital city is divided by the River Liffey?",
+                "answer": "Dublin"
+            },
+            {
+                "question": "What is the capital of Spain, known for its Prado Museum and Royal Palace?",
+                "answer": "Madrid"
+            },
+            {
+                "question": "Which city serves as the capital of the Netherlands, though the government is located in The Hague?",
+                "answer": "Amsterdam"
+            },
+            {
+                "question": "The Parthenon, an ancient temple dedicated to the goddess Athena, overlooks which European capital?",
+                "answer": "Athens"
+            },
+            {
+                "question": "Which capital city is located on the River Thames?",
+                "answer": "London"
+            },
+            {
+                "question": "What is the capital of Sweden, a city spread across 14 islands connected by over 50 bridges?",
+                "answer": "Stockholm"
+            },
+            {
+                "question": "Which European capital is famous for its thermal baths and is divided into two distinct historical sides by the Danube River?",
+                "answer": "Budapest"
+            },
+            {
+                "question": "In which capital city would you find the Brandenburg Gate and the remains of a wall that divided the city until 1989?",
+                "answer": "Berlin"
+            },
+            {
+                "question": "What is the capital of Portugal, known for its steep hills, yellow trams, and past\u00e9is de nata?",
+                "answer": "Lisbon"
+            },
+            {
+                "question": "The Eiffel Tower is a landmark in which European capital?",
+                "answer": "Paris"
+            },
+            {
+                "question": "What is the capital of Iceland, known as the world's northernmost capital of a sovereign state?",
+                "answer": "Reykjav\u00edk"
+            },
+            {
+                "question": "The Vltava River flows through which picturesque European capital known as the 'City of a Hundred Spires'?",
+                "answer": "Prague"
+            },
+            {
+                "question": "Which European capital is situated on the confluence of the Sava and Danube rivers?",
+                "answer": "Belgrade"
+            },
+            {
+                "question": "What is the capital of Malta, built by the Knights of St. John in the 16th century?",
+                "answer": "Valletta"
+            },
+            {
+                "question": "Which European capital is the only divided capital city in the world today, split into a northern and southern half?",
+                "answer": "Nicosia"
+            },
+            {
+                "question": "What is the capital of Latvia, famous for its extensive Art Nouveau architecture?",
+                "answer": "Riga"
+            },
+            {
+                "question": "Which European capital city is home to the Tivoli Gardens amusement park and the Little Mermaid statue?",
+                "answer": "Copenhagen"
+            },
+            {
+                "question": "The Alexander Nevsky Cathedral is a major landmark in which European capital?",
+                "answer": "Sofia"
+            },
+            {
+                "question": "What is the capital of Slovakia, the only national capital that borders two independent countries?",
+                "answer": "Bratislava"
+            },
+            {
+                "question": "Which small European capital city is enclosed by walls and is the headquarters of the Grand Duke?",
+                "answer": "Luxembourg City"
+            },
+            {
+                "question": "Which European capital is technically an independent city-state enclosed entirely within another capital city?",
+                "answer": "Vatican City"
+            },
+            {
+                "question": "Despite Zurich and Geneva being its most famous cities, what is the actual capital of Switzerland?",
+                "answer": "Bern"
+            },
+            {
+                "question": "What is the capital of the European Union?",
+                "answer": "Brussels"
+            },
+            {
+                "question": "Which European capital has the shortest name, consisting of only four letters and ending in 'o'?",
+                "answer": "Oslo"
+            },
+            {
+                "question": "What is the capital of the microstate San Marino?",
+                "answer": "City of San Marino"
+            },
+            {
+                "question": "If you are flying into Schiphol Airport, which capital city are you arriving in?",
+                "answer": "Amsterdam"
+            },
+            {
+                "question": "Which capital city is further north: London, Paris, or Berlin?",
+                "answer": "Berlin"
+            },
+            {
+                "question": "What capital city was formerly known as Christiania?",
+                "answer": "Oslo"
+            },
+            {
+                "question": "What is the capital of the Faroe Islands, an autonomous territory of Denmark?",
+                "answer": "T\u00f3rshavn"
+            },
+            {
+                "question": "While Edinburgh is the capital of Scotland, what is the capital of Wales?",
+                "answer": "Cardiff"
+            }
+        ]
+    }
+}

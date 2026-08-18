@@ -1,0 +1,764 @@
+{
+  "topics": {
+    "TV Shows": [
+      {
+        "question": "What fictional ad agency is the primary workplace in Mad Men?",
+        "answer": "Sterling Cooper",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In The Wire, what is the name of the Baltimore newspaper introduced in season five?",
+        "answer": "The Baltimore Sun",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which actor played the title role in the 2000 miniseries The Scarlet Pimpernel?",
+        "answer": "Richard E. Grant",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the fictional town where Twin Peaks is set?",
+        "answer": "Twin Peaks, Washington",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In Better Call Saul, what is Jimmy McGill's older brother's first name?",
+        "answer": "Chuck",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which series follows the employees of Lumon Industries?",
+        "answer": "Severance",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In The Sopranos, what family business does Artie Bucco own?",
+        "answer": "Vesuvio",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which sitcom features the fictional paper company Dunder Mifflin?",
+        "answer": "The Office",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the surname of the family at the center of Succession?",
+        "answer": "Roy",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In The Good Place, what is the name of the neighborhood architect?",
+        "answer": "Michael",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which series was adapted from Margaret Atwood's novel about Gilead?",
+        "answer": "The Handmaid's Tale",
+        "difficulty": "hard"
+      },
+      {
+        "question": "In Breaking Bad, what is the name of Gus Fring's fast-food chain?",
+        "answer": "Los Pollos Hermanos",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who created the television series The Wire?",
+        "answer": "David Simon",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is Don Draper's birth name in Mad Men?",
+        "answer": "Dick Whitman",
+        "difficulty": "hard"
+      },
+      {
+        "question": "In The X-Files, what is Fox Mulder's FBI badge number?",
+        "answer": "JTT047101111",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which drama features the fictional Yorkshire estate Downton Abbey?",
+        "answer": "Downton Abbey",
+        "difficulty": "hard"
+      },
+      {
+        "question": "In Game of Thrones, what is the Stark family motto?",
+        "answer": "Winter Is Coming",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which show features detective Rust Cohle and Martin Hart?",
+        "answer": "True Detective",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the prison in Orange Is the New Black?",
+        "answer": "Litchfield Penitentiary",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series centers on the Roy family's media conglomerate Waystar Royco?",
+        "answer": "Succession",
+        "difficulty": "hard"
+      },
+      {
+        "question": "In Friends, what was Chandler Bing's job for most of the series?",
+        "answer": "Statistical analysis and data reconfiguration",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which character says 'Winter is coming' most often in Game of Thrones?",
+        "answer": "Eddard Stark",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "In Seinfeld, what is Kramer's first name?",
+        "answer": "Cosmo",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the real first name of The Office character Creed Bratton?",
+        "answer": "Creed",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "In The Simpsons, what is Chief Wiggum's first name?",
+        "answer": "Clancy",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which character never appears on screen in the original Frasier?",
+        "answer": "Maris Crane",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "In How I Met Your Mother, whose wedding is interrupted by Robin's 'I do'?",
+        "answer": "Barney and Robin's",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which series begins with Walter White celebrating his 50th birthday?",
+        "answer": "Breaking Bad",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the name of the coffee shop in Friends?",
+        "answer": "Central Perk",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "In The Sopranos, what animal in Tony's dream is often linked to his family anxieties?",
+        "answer": "A duck",
+        "difficulty": "tricky"
+      }
+    ],
+    "Food Around the World": [
+      {
+        "question": "Which Japanese dish consists of vinegar-seasoned rice and may be served with raw fish?",
+        "answer": "Sushi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the principal grain used to make Italian polenta?",
+        "answer": "Corn",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which spice gives many paellas their distinctive yellow color?",
+        "answer": "Saffron",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What fermented Korean side dish is commonly made from napa cabbage?",
+        "answer": "Kimchi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Middle Eastern dip is traditionally made from chickpeas and tahini?",
+        "answer": "Hummus",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Mexican sauce shares its name with the Spanish word for 'mole'?",
+        "answer": "Mole",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Indian flatbread is usually leavened with yeast and baked in a tandoor?",
+        "answer": "Naan",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which cheese is traditionally used in a Greek salad?",
+        "answer": "Feta",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the main ingredient of Japanese miso?",
+        "answer": "Fermented soybeans",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country is most associated with the dish pho?",
+        "answer": "Vietnam",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Italian pasta shape takes its name from the Italian word for 'little worms'?",
+        "answer": "Vermicelli",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which French mother sauce is made from a white roux and milk?",
+        "answer": "Béchamel",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the Japanese term for the savory taste associated with glutamate?",
+        "answer": "Umami",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Spanish region is most closely associated with pintxos?",
+        "answer": "The Basque Country",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Ethiopian flatbread is fermented and made from teff?",
+        "answer": "Injera",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which cheese is traditionally used in the Georgian bread khachapuri?",
+        "answer": "Suluguni",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What North African spice blend often contains cumin, coriander, and chili?",
+        "answer": "Ras el hanout",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Peruvian dish traditionally cures raw fish in citrus juice?",
+        "answer": "Ceviche",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the key starch in the Italian dessert panna cotta?",
+        "answer": "None; panna cotta is set with gelatin",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Chinese cooking technique means 'breath of the wok'?",
+        "answer": "Wok hei",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Despite its name, what nut is not botanically a nut?",
+        "answer": "The peanut",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What fruit is traditionally used to make guacamole?",
+        "answer": "Avocado",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which 'berry' is botanically a berry: strawberry or banana?",
+        "answer": "Banana",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What food is called 'aubergine' in British English?",
+        "answer": "Eggplant",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which spice is actually the dried stigma of a flower?",
+        "answer": "Saffron",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the primary ingredient in tofu?",
+        "answer": "Soybeans",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What color are ripe olives before most are cured or processed?",
+        "answer": "Green or black, depending on variety and ripeness",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Is white chocolate technically chocolate under many food standards?",
+        "answer": "No, it contains cocoa butter but no cocoa solids",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the main liquid in traditional chicken stock?",
+        "answer": "Water",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which common 'vegetable' is botanically a fruit?",
+        "answer": "Tomato",
+        "difficulty": "tricky"
+      }
+    ],
+    "Human Body": [
+      {
+        "question": "Which part of the brain is chiefly responsible for balance and coordination?",
+        "answer": "The cerebellum",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the body's largest internal organ?",
+        "answer": "The liver",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which blood cells primarily transport oxygen?",
+        "answer": "Red blood cells",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the valve between the left atrium and left ventricle?",
+        "answer": "The mitral valve",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which bone is commonly called the collarbone?",
+        "answer": "The clavicle",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What pigment gives skin and hair much of their color?",
+        "answer": "Melanin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which organ produces insulin?",
+        "answer": "The pancreas",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the functional unit of the kidney?",
+        "answer": "The nephron",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which type of joint connects the skull bones?",
+        "answer": "A suture joint",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the medical term for the voice box?",
+        "answer": "The larynx",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which cranial nerve is responsible for the sense of smell?",
+        "answer": "The olfactory nerve",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What type of epithelium lines the alveoli of the lungs?",
+        "answer": "Simple squamous epithelium",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which hormone is secreted by the pineal gland?",
+        "answer": "Melatonin",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the membrane surrounding the heart?",
+        "answer": "The pericardium",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which artery supplies much of the small intestine?",
+        "answer": "The superior mesenteric artery",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the smallest bone in the human body?",
+        "answer": "The stapes",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which phase of the cardiac cycle involves ventricular contraction?",
+        "answer": "Systole",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What structure prevents food entering the trachea during swallowing?",
+        "answer": "The epiglottis",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which vitamin is synthesized in the skin with ultraviolet B exposure?",
+        "answer": "Vitamin D",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the connective tissue that attaches muscle to bone?",
+        "answer": "A tendon",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How many bones does a typical adult human have?",
+        "answer": "206",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which side of the heart pumps blood to the lungs?",
+        "answer": "The right side",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the body's largest organ overall?",
+        "answer": "The skin",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Do red blood cells in humans normally contain a nucleus?",
+        "answer": "No",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which organ can regenerate substantial lost tissue?",
+        "answer": "The liver",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the only human organ that has no direct blood supply?",
+        "answer": "The cornea",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which part of the body keeps growing throughout life: ears or the skeleton?",
+        "answer": "Neither; apparent ear growth is largely due to cartilage and skin changes",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the medical term for the kneecap?",
+        "answer": "The patella",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which blood type is often called the universal red-cell donor?",
+        "answer": "O negative",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the name for the tiny bones of the middle ear collectively?",
+        "answer": "The ossicles",
+        "difficulty": "tricky"
+      }
+    ],
+    "Ancient Civilizations": [
+      {
+        "question": "Which river was central to ancient Egyptian agriculture?",
+        "answer": "The Nile",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What writing system was used in ancient Mesopotamia?",
+        "answer": "Cuneiform",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Roman city was buried by Vesuvius in 79 CE?",
+        "answer": "Pompeii",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the political center of ancient Athens called?",
+        "answer": "The Acropolis",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which civilization built Machu Picchu?",
+        "answer": "The Inca civilization",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What material did ancient Egyptians commonly make writing sheets from?",
+        "answer": "Papyrus",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Carthaginian general crossed the Alps with elephants?",
+        "answer": "Hannibal",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the principal language of ancient Rome?",
+        "answer": "Latin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Mesoamerican civilization is known for its Long Count calendar?",
+        "answer": "The Maya",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the Roman public marketplace called?",
+        "answer": "The Forum",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Babylonian king is associated with one of the earliest surviving law codes?",
+        "answer": "Hammurabi",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the Phoenician city of Byblos called by its inhabitants?",
+        "answer": "Gubla",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Egyptian pharaoh promoted the worship of Aten?",
+        "answer": "Akhenaten",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Persian royal road connected Susa with which western city?",
+        "answer": "Sardis",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Roman office had the power to veto actions of magistrates?",
+        "answer": "Tribune of the plebs",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Greek historian wrote The Histories about the Greco-Persian Wars?",
+        "answer": "Herodotus",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the Aztec capital, built on an island in Lake Texcoco?",
+        "answer": "Tenochtitlan",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which civilization developed the undeciphered Linear A script?",
+        "answer": "The Minoans",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Roman term described a citizen's legal authority over descendants?",
+        "answer": "Patria potestas",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which kingdom used the city of Meroë as a major capital?",
+        "answer": "Kush",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Did the ancient Romans use Arabic numerals in everyday inscriptions?",
+        "answer": "No",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which was built first: the Great Pyramid of Giza or the Colosseum?",
+        "answer": "The Great Pyramid of Giza",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What color was the 'Black Sea' called in ancient Greek?",
+        "answer": "Pontos Euxeinos, meaning 'hospitable sea'",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which ancient city is often called 'the Eternal City'?",
+        "answer": "Rome",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Did Cleopatra live closer in time to the moon landing or to the building of the Great Pyramid?",
+        "answer": "The moon landing",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What material did Romans use for many monumental inscriptions?",
+        "answer": "Stone",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which civilization used a calendar with 365 days plus five extra days?",
+        "answer": "Ancient Egypt",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What Roman word gave English the word 'salary'?",
+        "answer": "Salarium",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Did Spartan women generally have more public freedom than Athenian women?",
+        "answer": "Yes",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What was the original purpose of many Egyptian pyramids?",
+        "answer": "Royal tombs",
+        "difficulty": "tricky"
+      }
+    ],
+    "European Capitals": [
+      {
+        "question": "Which European capital is divided by the Danube into Buda and Pest?",
+        "answer": "Budapest",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Slovenia?",
+        "answer": "Ljubljana",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is home to the Atomium?",
+        "answer": "Brussels",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which European capital stands on fourteen islands?",
+        "answer": "Stockholm",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Montenegro?",
+        "answer": "Podgorica",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is known for the Charles Bridge and Prague Castle?",
+        "answer": "Prague",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Estonia?",
+        "answer": "Tallinn",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which European capital lies at the mouth of the River Liffey?",
+        "answer": "Dublin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Moldova?",
+        "answer": "Chișinău",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital contains the district called Sliema across Marsamxett Harbour?",
+        "answer": "Valletta",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which European capital is the world's northernmost national capital?",
+        "answer": "Reykjavík",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is served by the Václav Havel Airport?",
+        "answer": "Prague",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What capital was historically known as Christiania until 1925?",
+        "answer": "Oslo",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital's old town is called Vieux Lyon?",
+        "answer": "Lyon is not a capital; this is a trick question",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which European capital has the district of Üsküdar on the Asian side?",
+        "answer": "Ankara is the capital, not Istanbul",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is situated on the rivers Sava and Danube?",
+        "answer": "Belgrade",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the capital of Bosnia and Herzegovina?",
+        "answer": "Sarajevo",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is located at the foot of Mount Vitosha?",
+        "answer": "Sofia",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the capital of Lithuania?",
+        "answer": "Vilnius",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital hosts the European Commission's main headquarters?",
+        "answer": "Brussels",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which national capital is closer to Africa than to most of mainland Europe?",
+        "answer": "Valletta",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Is Istanbul the capital of Turkey?",
+        "answer": "No; Ankara is",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which European capital is split by the Danube but is not Bratislava?",
+        "answer": "Budapest",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What capital is sometimes mistakenly called the capital of Switzerland?",
+        "answer": "Zurich; the actual federal city is Bern",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which European capital lies farther north: Copenhagen or Moscow?",
+        "answer": "Moscow",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the capital of the Netherlands, despite the government being seated in The Hague?",
+        "answer": "Amsterdam",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which capital's name contains the name of its country in English?",
+        "answer": "Luxembourg City",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Is Vatican City the capital of Italy?",
+        "answer": "No; Rome is",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which European capital was formerly known in English as Pressburg?",
+        "answer": "Bratislava",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What capital shares its name with its country?",
+        "answer": "Luxembourg City",
+        "difficulty": "tricky"
+      }
+    ]
+  }
+}

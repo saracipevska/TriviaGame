@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Buzzer — Trivia Game</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/buzzer.css">
+</head>
+<body>
+
+    <!-- ── Name entry screen ───────────────────────────── -->
+    <div id="screen-name" class="b-screen active">
+        <img src="/static/images/trivia_logo.png" alt="" class="b-logo">
+        <h1 class="b-title">TRIVIA BUZZER</h1>
+        <p class="b-subtitle">Enter your name to join</p>
+        <input type="text" id="name-input" class="b-name-input" placeholder="Your name…" maxlength="20" autocomplete="off">
+        <button id="btn-join" class="b-btn-join">Join Game</button>
+    </div>
+
+    <!-- ── Buzzer screen ───────────────────────────────── -->
+    <div id="screen-buzzer" class="b-screen">
+        <div class="b-topbar">
+            <span id="player-name-label" class="b-player-name"></span>
+            <button id="btn-change-name" class="b-change-name">Change name</button>
+        </div>
+
+        <button id="btn-buzz" class="b-buzz-btn">BUZZ&nbsp;IN</button>
+
+        <p id="buzz-status" class="b-status"></p>
+
+        <div class="b-queue-section">
+            <p class="b-queue-label">CURRENT QUEUE</p>
+            <ol id="queue-list" class="b-queue-list"></ol>
+        </div>
+    </div>
+
+    <script src="/static/js/buzzer.js"></script>
+</body>
+</html>

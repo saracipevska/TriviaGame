@@ -1,0 +1,764 @@
+{
+  "topics": {
+    "TV Series": [
+      {
+        "question": "What is the name of the fictional paper company in The Office?",
+        "answer": "Dunder Mifflin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which series follows chemistry teacher Walter White after his cancer diagnosis?",
+        "answer": "Breaking Bad",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the coffeehouse frequently visited by the Friends characters?",
+        "answer": "Central Perk",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which drama features the corporate dynasty behind Waystar Royco?",
+        "answer": "Succession",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What fictional town is the main setting of Stranger Things?",
+        "answer": "Hawkins",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In Better Call Saul, what is Saul Goodman's birth name?",
+        "answer": "James McGill",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the prison from which Michael Scofield plans an escape in Prison Break?",
+        "answer": "Fox River State Penitentiary",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series is centered on the advertising agency Sterling Cooper?",
+        "answer": "Mad Men",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of Tony Soprano's psychiatrist in The Sopranos?",
+        "answer": "Dr. Jennifer Melfi",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series features the fictional continent of Westeros?",
+        "answer": "Game of Thrones",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the town where Gilmore Girls is set?",
+        "answer": "Stars Hollow",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series follows the employees of Lumon Industries?",
+        "answer": "Severance",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the bar commonly visited in How I Met Your Mother?",
+        "answer": "MacLaren's Pub",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which detective series features the character Rust Cohle?",
+        "answer": "True Detective",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of Dexter Morgan's adoptive sister in Dexter?",
+        "answer": "Debra Morgan",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series follows the Shelby family in postwar Birmingham?",
+        "answer": "Peaky Blinders",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the fictional town in Parks and Recreation?",
+        "answer": "Pawnee",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series features the fictional restaurant The Original Beef of Chicagoland?",
+        "answer": "The Bear",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the prison in Orange Is the New Black?",
+        "answer": "Litchfield Penitentiary",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series follows a chess prodigy named Beth Harmon?",
+        "answer": "The Queen's Gambit",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which drama follows FBI agents Fox Mulder and Dana Scully?",
+        "answer": "The X-Files",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the fictional school attended by Wednesday Addams?",
+        "answer": "Nevermore Academy",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which series is set in the fictional town of Sunnydale?",
+        "answer": "Buffy the Vampire Slayer",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the hospital in Grey's Anatomy after its renaming in season six?",
+        "answer": "Grey Sloan Memorial Hospital",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series features the hacker known as Elliot Alderson?",
+        "answer": "Mr. Robot",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the surname of the family at the center of Schitt's Creek?",
+        "answer": "Rose",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which comedy series features the Bluth family?",
+        "answer": "Arrested Development",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the fictional Los Angeles law firm in Suits?",
+        "answer": "Pearson Hardman",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which series features the character Hannibal Lecter as a forensic psychiatrist?",
+        "answer": "Hannibal",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the real name of Don Draper in Mad Men?",
+        "answer": "Dick Whitman",
+        "difficulty": "hard"
+      }
+    ],
+    "Food from Around the World": [
+      {
+        "question": "Which rice variety is traditionally used for risotto?",
+        "answer": "Arborio rice",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Japanese dish consists of vinegared rice paired with fish or other ingredients?",
+        "answer": "Sushi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which spice gives traditional paella much of its yellow color?",
+        "answer": "Saffron",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Korean fermented vegetable dish is commonly served as a side dish?",
+        "answer": "Kimchi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What legume is the primary ingredient in traditional hummus?",
+        "answer": "Chickpeas",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country is most closely associated with pho?",
+        "answer": "Vietnam",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Greek cheese is traditionally used in a Greek salad?",
+        "answer": "Feta",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Indian flatbread is commonly baked in a tandoor?",
+        "answer": "Naan",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Middle Eastern sesame paste is a key ingredient in hummus?",
+        "answer": "Tahini",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country is most associated with goulash?",
+        "answer": "Hungary",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What French dessert has a caramelized sugar crust over baked custard?",
+        "answer": "Crème brûlée",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Italian dessert combines coffee-soaked ladyfingers with mascarpone?",
+        "answer": "Tiramisu",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Thai soup is known for its hot, sour flavor and frequent use of shrimp?",
+        "answer": "Tom yum",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which country is most associated with poutine?",
+        "answer": "Canada",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Italian pasta shape resembles small rice grains?",
+        "answer": "Orzo",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Spanish cured ham is commonly served in thin slices?",
+        "answer": "Jamón",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Peruvian dish uses raw fish cured in citrus juice?",
+        "answer": "Ceviche",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What North African dish consists of steamed semolina grains, often served with stew?",
+        "answer": "Couscous",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Moroccan stew is cooked in a conical-lidded earthenware pot?",
+        "answer": "Tagine",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Japanese ingredient is made from dried sheets of edible seaweed?",
+        "answer": "Nori",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Argentine sauce is typically made with parsley, garlic, vinegar, and oil?",
+        "answer": "Chimichurri",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Georgian boat-shaped bread is commonly filled with cheese and egg?",
+        "answer": "Khachapuri",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Polish dish consists of filled dumplings, often shaped like half-moons?",
+        "answer": "Pierogi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Filipino dish is commonly braised in vinegar, soy sauce, garlic, and spices?",
+        "answer": "Adobo",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Middle Eastern dip is made from roasted eggplant and tahini?",
+        "answer": "Baba ganoush",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Swiss potato dish is made from grated potatoes fried into a cake?",
+        "answer": "Rösti",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Mexican sauce may combine chilies, spices, and chocolate?",
+        "answer": "Mole",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Vietnamese baguette sandwich typically includes pickled vegetables and savory fillings?",
+        "answer": "Bánh mì",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Scandinavian cured salmon dish is flavored with dill?",
+        "answer": "Gravlax",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Italian frozen dessert is made from sweetened cream or custard?",
+        "answer": "Semifreddo",
+        "difficulty": "hard"
+      }
+    ],
+    "Human Body": [
+      {
+        "question": "Which gland is often called the master gland because it regulates several other glands?",
+        "answer": "Pituitary gland",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the liquid component of blood called?",
+        "answer": "Plasma",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the bone in the upper arm?",
+        "answer": "Humerus",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which vitamin can the skin synthesize when exposed to sunlight?",
+        "answer": "Vitamin D",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which inner-ear structure converts sound vibrations into nerve signals?",
+        "answer": "Cochlea",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which part of the brain is strongly associated with planning and decision-making?",
+        "answer": "Frontal lobe",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What protein in red blood cells binds and transports oxygen?",
+        "answer": "Hemoglobin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which gland produces the hormone thyroxine?",
+        "answer": "Thyroid gland",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the longest nerve in the human body?",
+        "answer": "Sciatic nerve",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What connective tissue joins bone to bone at a joint?",
+        "answer": "Ligament",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Where does most nutrient absorption occur in the digestive system?",
+        "answer": "Small intestine",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the outermost layer of the skin called?",
+        "answer": "Epidermis",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+        "answer": "Pulmonary vein",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which chamber of the heart pumps blood into the aorta?",
+        "answer": "Left ventricle",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What fluid lubricates movable joints?",
+        "answer": "Synovial fluid",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which part of the eye focuses light onto the retina?",
+        "answer": "Lens",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the primary role of white blood cells?",
+        "answer": "Defending against infection",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which organ metabolizes most alcohol consumed by the body?",
+        "answer": "Liver",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What part of a neuron receives incoming signals from other cells?",
+        "answer": "Dendrite",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which muscle on the front of the upper arm flexes the elbow?",
+        "answer": "Biceps brachii",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the lower jawbone?",
+        "answer": "Mandible",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the body's largest artery?",
+        "answer": "Aorta",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which brain structure controls vital functions such as breathing and heart rate?",
+        "answer": "Brainstem",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which organ helps remove old red blood cells from circulation?",
+        "answer": "Spleen",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What enzyme in the stomach begins the digestion of proteins?",
+        "answer": "Pepsin",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What membrane covers the outer surface of a bone?",
+        "answer": "Periosteum",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which structures of the inner ear help detect rotational head movements?",
+        "answer": "Semicircular canals",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What flap prevents food from entering the trachea during swallowing?",
+        "answer": "Epiglottis",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the opening in the center of the iris called?",
+        "answer": "Pupil",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which muscle group is primarily responsible for extending the knee?",
+        "answer": "Quadriceps",
+        "difficulty": "medium"
+      }
+    ],
+    "Ancient Civilizations": [
+      {
+        "question": "What was the major palace center of the Minoan civilization on Crete?",
+        "answer": "Knossos",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Egyptian god was associated with the sun?",
+        "answer": "Ra",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which river, together with the Euphrates, supported ancient Mesopotamian civilizations?",
+        "answer": "Tigris",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Greek city-state was Athens's principal rival in the Peloponnesian War?",
+        "answer": "Sparta",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Persian king led the invasion of Greece in 480 BCE?",
+        "answer": "Xerxes I",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which ancient people founded Carthage in North Africa?",
+        "answer": "The Phoenicians",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the name of the Mesopotamian hero who sought immortality in an ancient epic?",
+        "answer": "Gilgamesh",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Roman emperor commissioned a large forum bearing his name?",
+        "answer": "Trajan",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the public marketplace in an ancient Greek city called?",
+        "answer": "Agora",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Egyptian goddess was associated with magic, motherhood, and healing?",
+        "answer": "Isis",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What monumental stepped structure is associated with ancient Mesopotamia?",
+        "answer": "Ziggurat",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Macedonian king conquered the Persian Empire in the fourth century BCE?",
+        "answer": "Alexander the Great",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the name of the Roman god of the sea?",
+        "answer": "Neptune",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which ancient city was famous for the Oracle of Apollo?",
+        "answer": "Delphi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which civilization created the famous Nazca Lines in present-day Peru?",
+        "answer": "Nazca",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What term describes the water channels built by Romans to supply cities?",
+        "answer": "Aqueducts",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What social class consisted of aristocratic families in the Roman Republic?",
+        "answer": "Patricians",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Assyrian city was home to the library of King Ashurbanipal?",
+        "answer": "Nineveh",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the main ceremonial capital of the Achaemenid Persian Empire?",
+        "answer": "Persepolis",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Egyptian queen formed alliances with Julius Caesar and Mark Antony?",
+        "answer": "Cleopatra VII",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What ancient writing system was impressed into clay tablets with a wedge-shaped stylus?",
+        "answer": "Cuneiform",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Roman road linked Rome with southern Italy and was known as the Appian Way?",
+        "answer": "Via Appia",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which civilization constructed Machu Picchu?",
+        "answer": "The Inca",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What term did Greeks use for an independent city-state?",
+        "answer": "Polis",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Babylonian king is associated with one of the earliest surviving law codes?",
+        "answer": "Hammurabi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Greek temple on the Acropolis was dedicated to Athena?",
+        "answer": "The Parthenon",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Egyptian pharaoh promoted worship centered on the Aten?",
+        "answer": "Akhenaten",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the capital of the Aztec Empire?",
+        "answer": "Tenochtitlan",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Roman leader was assassinated on the Ides of March?",
+        "answer": "Julius Caesar",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which ancient civilization developed the Long Count calendar?",
+        "answer": "The Maya",
+        "difficulty": "hard"
+      }
+    ],
+    "European Capitals": [
+      {
+        "question": "Which capital is divided by the Danube into Buda and Pest?",
+        "answer": "Budapest",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is home to the Eiffel Tower?",
+        "answer": "Paris",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital contains the Colosseum and the Roman Forum?",
+        "answer": "Rome",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is known for the Brandenburg Gate?",
+        "answer": "Berlin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital lies on the River Tagus and is famous for its historic trams?",
+        "answer": "Lisbon",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is home to the Acropolis and the Parthenon?",
+        "answer": "Athens",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital hosts the Nobel Peace Prize ceremony?",
+        "answer": "Oslo",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is situated on the River Sava and has the historic Upper Town district?",
+        "answer": "Zagreb",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is known for its massive Palace of the Parliament?",
+        "answer": "Bucharest",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital's Old Town was extensively reconstructed after World War II?",
+        "answer": "Warsaw",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is known for bridges over the Ljubljanica River and a hilltop castle?",
+        "answer": "Ljubljana",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Baltic capital is known for a medieval Old Town and a well-preserved city wall?",
+        "answer": "Tallinn",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital sits on the Daugava River and is known for Art Nouveau architecture?",
+        "answer": "Riga",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital features Gediminas' Tower as a well-known landmark?",
+        "answer": "Vilnius",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital lies near the Morača River in a valley surrounded by mountains?",
+        "answer": "Podgorica",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is known for the Stone Bridge and Kale Fortress?",
+        "answer": "Skopje",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital lies on the Danube and is known for Bratislava Castle?",
+        "answer": "Bratislava",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is located at the meeting point of the Sava and Danube rivers?",
+        "answer": "Belgrade",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is known for Skanderbeg Square?",
+        "answer": "Tirana",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is home to the Széchenyi Thermal Bath and a grand parliament building on the Danube?",
+        "answer": "Budapest",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is home to Charles Bridge?",
+        "answer": "Prague",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is home to the Atomium?",
+        "answer": "Brussels",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital is spread across fourteen islands?",
+        "answer": "Stockholm",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital lies at the mouth of the River Liffey?",
+        "answer": "Dublin",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is the world's northernmost sovereign-state capital?",
+        "answer": "Reykjavik",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is known for Alexander Nevsky Cathedral?",
+        "answer": "Sofia",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital hosts the headquarters of the European Commission?",
+        "answer": "Brussels",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which capital has the Plaka neighborhood beneath the Acropolis?",
+        "answer": "Athens",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital is known for the Kalemegdan Fortress?",
+        "answer": "Belgrade",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which capital lies on the Vltava River and is known for its Astronomical Clock?",
+        "answer": "Prague",
+        "difficulty": "hard"
+      }
+    ]
+  }
+}

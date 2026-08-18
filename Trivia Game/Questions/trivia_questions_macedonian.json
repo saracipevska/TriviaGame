@@ -1,0 +1,764 @@
+{
+  "topics": {
+    "TV Shows": [
+      {
+        "question": "Која ТВ-серија ја прикажува измислената компанија за хартија Дандеp Мифлин?",
+        "answer": "The Office",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како се вика кафулето во Friends?",
+        "answer": "Central Perk",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која серија го следи наставникот по хемија Волтер Вајт?",
+        "answer": "Breaking Bad",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кое семејство е во центарот на Succession?",
+        "answer": "Семејството Рој",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како се вика измислениот град во Stranger Things?",
+        "answer": "Hawkins",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која серија е сместена во Седумте Кралства на Вестерос?",
+        "answer": "Game of Thrones",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која комедија ги следи вработените во одделот за паркови во Пони?",
+        "answer": "Parks and Recreation",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како се вика затворот во Orange Is the New Black?",
+        "answer": "Litchfield Penitentiary",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која драма ги следи вработените во компанијата Лумен Индастрис?",
+        "answer": "Severance",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која серија ги прикажува агентите на ФБИ, Малдер и Скали?",
+        "answer": "The X-Files",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кое е презимето на семејството во Schitt's Creek?",
+        "answer": "Rose",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кое е вистинското име на Дон Дрејпер во Mad Men?",
+        "answer": "Dick Whitman",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која серија го следи детективот Раст Кол?",
+        "answer": "True Detective",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како се вика психијатарката на Тони Сопрано?",
+        "answer": "Dr. Jennifer Melfi",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој ситком го има ликот Шелдон Купер?",
+        "answer": "The Big Bang Theory",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како се вика барот во How I Met Your Mother?",
+        "answer": "MacLaren's Pub",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која серија ги следи жителите на измислениот град Старс Холо?",
+        "answer": "Gilmore Girls",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како се вика болницата во Grey's Anatomy по шестата сезона?",
+        "answer": "Grey Sloan Memorial Hospital",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која серија следи шаховска генијалка по име Бет Хармон?",
+        "answer": "The Queen's Gambit",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која серија прикажува зомби-апокалипса со Рик Грајмс и Дерил Диксон?",
+        "answer": "The Walking Dead",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како се вика родниот град на семејството Симпсонови?",
+        "answer": "Springfield",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кое е првото име на Крејмер во Seinfeld?",
+        "answer": "Cosmo",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кој е регионален менаџер на филијалата во Скрантон во The Office во поголем дел од серијата?",
+        "answer": "Michael Scott",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се вика сестрата близначка на Фиби Бафеј во Friends?",
+        "answer": "Ursula",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Во која драма се појавува фразата „Winter is coming“?",
+        "answer": "Game of Thrones",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се вика измислениот синџир за брза храна на Гас Фринг во Breaking Bad?",
+        "answer": "Los Pollos Hermanos",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се вика ликот познат како Eleven во Stranger Things?",
+        "answer": "Jane Hopper",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кое е презимето на главното семејство во The Sopranos?",
+        "answer": "Soprano",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која серија ја содржи компанијата Waystar Royco?",
+        "answer": "Succession",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се вика хотелот во серијата The White Lotus?",
+        "answer": "The White Lotus",
+        "difficulty": "tricky"
+      }
+    ],
+    "Food Around the World": [
+      {
+        "question": "Which country is most associated with sushi?",
+        "answer": "Japan",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Italian dish is made with layers of pasta, sauce, and cheese?",
+        "answer": "Lasagna",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which spice gives paella its yellow color?",
+        "answer": "Saffron",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Korean fermented cabbage dish is commonly served as a side?",
+        "answer": "Kimchi",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the main ingredient in hummus?",
+        "answer": "Chickpeas",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country is most associated with pho?",
+        "answer": "Vietnam",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What cheese is traditionally used in a Greek salad?",
+        "answer": "Feta",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Mexican dish is made with a folded tortilla and filling?",
+        "answer": "Taco",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Japanese soup is commonly made with fermented soybean paste?",
+        "answer": "Miso soup",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What Indian bread is commonly baked in a tandoor?",
+        "answer": "Naan",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country is famous for fondue?",
+        "answer": "Switzerland",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What French dessert is made from a baked custard with a caramelized sugar top?",
+        "answer": "Crème brûlée",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which grain is traditionally used to make risotto?",
+        "answer": "Arborio rice",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the main ingredient in traditional guacamole?",
+        "answer": "Avocado",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which country is most associated with goulash?",
+        "answer": "Hungary",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Middle Eastern sesame paste is used in hummus?",
+        "answer": "Tahini",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which pasta shape is shaped like small rice grains?",
+        "answer": "Orzo",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Spanish snack is made from thinly sliced cured ham?",
+        "answer": "Jamón",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What Thai soup is known for its hot and sour flavor and often contains shrimp?",
+        "answer": "Tom yum",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which country is most associated with poutine?",
+        "answer": "Canada",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What food is called aubergine in British English?",
+        "answer": "Eggplant",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which fruit is botanically a berry: banana or strawberry?",
+        "answer": "Banana",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the main ingredient of tofu?",
+        "answer": "Soybeans",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which spice is made from the dried stigma of a flower?",
+        "answer": "Saffron",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What Italian dessert is made with coffee-soaked ladyfingers and mascarpone?",
+        "answer": "Tiramisu",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which country is famous for the dish moussaka?",
+        "answer": "Greece",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What type of cheese is traditionally used on a Margherita pizza?",
+        "answer": "Mozzarella",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Which South American country is most associated with ceviche?",
+        "answer": "Peru",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What is the French term for a cooking technique using a water bath?",
+        "answer": "Bain-marie",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "What North African dish is traditionally steamed over a stew?",
+        "answer": "Couscous",
+        "difficulty": "tricky"
+      }
+    ],
+    "Human Body": [
+      {
+        "question": "Кој орган ја пумпа крвта низ телото?",
+        "answer": "The heart",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој е најголемиот орган на човечкото тело?",
+        "answer": "The skin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој орган произведува инсулин?",
+        "answer": "The pancreas",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кои крвни клетки пренесуваат кислород?",
+        "answer": "Red blood cells",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како медицински се нарекува чашката на коленото?",
+        "answer": "The patella",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која коска е позната како клучна коска?",
+        "answer": "The clavicle",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кои органи ја филтрираат крвта и создаваат урина?",
+        "answer": "The kidneys",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој дел од мозокот помага во одржување рамнотежа?",
+        "answer": "The cerebellum",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како се вика говорната кутија?",
+        "answer": "The larynx",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој пигмент ѝ дава боја на кожата?",
+        "answer": "Melanin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која е најмалата коска во телото?",
+        "answer": "The stapes",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој телесен систем ги вклучува белите дробови и дишните патишта?",
+        "answer": "The respiratory system",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој е главниот мускул за дишење?",
+        "answer": "The diaphragm",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која срцева комора пумпа крв кон белите дробови?",
+        "answer": "The right ventricle",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како се вика залистокот меѓу левата преткомора и левата комора?",
+        "answer": "The mitral valve",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која е функционалната единица на бубрегот?",
+        "answer": "The nephron",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој орган ја складира жолчката?",
+        "answer": "The gallbladder",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како медицински се нарекува душникот?",
+        "answer": "The trachea",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој хормон помага во регулирање на циклусот на спиење?",
+        "answer": "Melatonin",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кое ткиво ги поврзува мускулите со коските?",
+        "answer": "A tendon",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој орган произведува жолчка?",
+        "answer": "The liver",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се вика мембраната околу срцето?",
+        "answer": "The pericardium",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кој нерв носи визуелни информации од окото до мозокот?",
+        "answer": "The optic nerve",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се викаат малите воздушни кесички во белите дробови?",
+        "answer": "Alveoli",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кој дел од окото го контролира количеството светлина што влегува?",
+        "answer": "The iris",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кои имунолошки клетки создаваат антитела?",
+        "answer": "B lymphocytes",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кој минерал е главна компонента на коските и забите?",
+        "answer": "Calcium",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се вика зглобот меѓу коските на черепот?",
+        "answer": "A suture",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кој тип крвен сад носи крв од срцето?",
+        "answer": "An artery",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како колективно се викаат коските во средното уво?",
+        "answer": "The ossicles",
+        "difficulty": "tricky"
+      }
+    ],
+    "Ancient Civilizations": [
+      {
+        "question": "Која река била клучна за земјоделството во древен Египет?",
+        "answer": "The Nile",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој систем на пишување го користеле древните Месопотамци?",
+        "answer": "Cuneiform",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој римски град бил затрупан од Везув во 79 година?",
+        "answer": "Pompeii",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која цивилизација го изградила Мачу Пикчу?",
+        "answer": "The Inca civilization",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој бил главниот јазик во древен Рим?",
+        "answer": "Latin",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој војсководец ги преминал Алпите со слонови?",
+        "answer": "Hannibal",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како се викал римскиот јавен пазар?",
+        "answer": "The Forum",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која древна цивилизација го изградила Партенон?",
+        "answer": "The ancient Greeks",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој материјал Египќаните го користеле за листови за пишување?",
+        "answer": "Papyrus",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Како се викал главниот град на Ацтечката империја?",
+        "answer": "Tenochtitlan",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Кој вавилонски крал е познат по раниот законик?",
+        "answer": "Hammurabi",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој египетски фараон бил погребан во гробница откриена во 1922 година?",
+        "answer": "Tutankhamun",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој грчки град-држава бил познат по воената обука?",
+        "answer": "Sparta",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која цивилизација го создала календарот Долг број?",
+        "answer": "The Maya",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој римски водач бил убиен на Идите од март?",
+        "answer": "Julius Caesar",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој египетски бог имал глава на чакал?",
+        "answer": "Anubis",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој древен град бил уништен од Везув заедно со Помпеја?",
+        "answer": "Herculaneum",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како Грците го нарекувале својот град-држава?",
+        "answer": "Polis",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која цивилизација го изградила градот Петра?",
+        "answer": "The Nabataeans",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Како се вика римскиот амфитеатар во Рим?",
+        "answer": "The Colosseum",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Кој египетски фараон го промовирал култот кон Атен?",
+        "answer": "Akhenaten",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која империја го користела Персеполис како церемонијален главен град?",
+        "answer": "The Persian Empire",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кој грчки историчар пишувал за Грчко-персиските војни?",
+        "answer": "Herodotus",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се викала римската божица на мудроста?",
+        "answer": "Minerva",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која цивилизација го развила писмото Линеарно А?",
+        "answer": "The Minoans",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која била главната намена на мрежата римски патишта?",
+        "answer": "To move armies and facilitate trade",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која древна цивилизација живеела во регионот на денешен Ирак?",
+        "answer": "The Sumerians",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Како се викал домот на главниот грчки бог Зевс?",
+        "answer": "Mount Olympus",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Кое кралство го имало Мерое како важен главен град?",
+        "answer": "Kush",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која римска титула му се давала на заповедник на војска?",
+        "answer": "Imperator",
+        "difficulty": "tricky"
+      }
+    ],
+    "European Capitals": [
+      {
+        "question": "Која европска престолнина е поделена од реката Дунав на Буда и Пешта?",
+        "answer": "Будимпешта",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Во која престолнина се наоѓа Ајфеловата кула?",
+        "answer": "Париз",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина е позната по Колосеумот и Форумот?",
+        "answer": "Рим",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Во која престолнина се наоѓа Бранденбуршката порта?",
+        "answer": "Берлин",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина е сместена на седум рида покрај реката Тежо?",
+        "answer": "Лисабон",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина е позната по Акрополот и Партенон?",
+        "answer": "Атина",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина е поврзана со Нобеловата награда за мир?",
+        "answer": "Осло",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина се наоѓа покрај реката Сава и е позната по Горни град?",
+        "answer": "Загреб",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина е позната по Палатата на парламентот, една од најголемите административни згради во светот?",
+        "answer": "Букурешт",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина има Стар град обновен по Втората светска војна и Кралски замок?",
+        "answer": "Варшава",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Која престолнина е позната по мостовите на реката Љубљаница и замокот над градот?",
+        "answer": "Љубљана",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Во која престолнина се наоѓа добро сочуван средновековен Стар град, вклучен на листата на УНЕСКО?",
+        "answer": "Талин",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина е позната по своите арт нуво градби и се наоѓа на реката Даугава?",
+        "answer": "Рига",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина има Стар град со Гедиминовата кула како познат симбол?",
+        "answer": "Вилнус",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина се наоѓа во долина меѓу планини и покрај реката Морача?",
+        "answer": "Подгорица",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која европска престолнина е позната по Камениот мост и тврдината Кале?",
+        "answer": "Скопје",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина е сместена покрај Дунав и е позната по Братиславскиот замок?",
+        "answer": "Братислава",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина се наоѓа под планината Витоша?",
+        "answer": "Софија",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина лежи на спојот на реките Сава и Дунав?",
+        "answer": "Белград",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина е позната по плоштадот Скендербег?",
+        "answer": "Тирана",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Која престолнина е позната по бањите Сечењи и по зградата на парламентот покрај Дунав?",
+        "answer": "Будимпешта",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Во која престолнина се наоѓа Карловиот мост?",
+        "answer": "Прага",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Во која престолнина се наоѓа Атомиумот?",
+        "answer": "Брисел",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која престолнина е изградена на четиринаесет острови?",
+        "answer": "Стокхолм",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која престолнина лежи на устието на реката Лифи?",
+        "answer": "Даблин",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која европска престолнина е најсеверната национална престолнина во светот?",
+        "answer": "Рејкјавик",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која престолнина е позната по катедралата Александар Невски?",
+        "answer": "Софија",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Во која престолнина се наоѓа главното седиште на Европската комисија?",
+        "answer": "Брисел",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која престолнина има кварт наречен Плака под Акрополот?",
+        "answer": "Атина",
+        "difficulty": "tricky"
+      },
+      {
+        "question": "Која престолнина е позната по тврдината Калемегдан?",
+        "answer": "Белград",
+        "difficulty": "tricky"
+      }
+    ]
+  }
+}
