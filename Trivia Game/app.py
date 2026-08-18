@@ -7,8 +7,10 @@ import threading
 import time
 
 import qrcode
+from werkzeug.middleware.proxy_fix import ProxyFix
 
 app = Flask(__name__)
+app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 
 QUESTIONS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'questions.json')
 PORT = 5000
@@ -55,15 +57,21 @@ def get_questions():
         return jsonify({'error': f'Invalid JSON: {str(e)}'}), 400
 
 
+def get_buzzer_url():
+    """Builds the buzzer URL from the incoming request itself, so it works
+    both locally (LAN IP:5000) and when deployed (public host, correct
+    scheme/port), instead of guessing via get_local_ip()."""
+    return f'{request.url_root.rstrip("/")}/buzzer'
+
+
 @app.route('/api/join-info')
 def join_info():
-    url = f'http://{get_local_ip()}:{PORT}/buzzer'
-    return jsonify({'url': url})
+    return jsonify({'url': get_buzzer_url()})
 
 
 @app.route('/api/qr.png')
 def qr_png():
-    url = f'http://{get_local_ip()}:{PORT}/buzzer'
+    url = get_buzzer_url()
     img = qrcode.make(url)
     buf = io.BytesIO()
     img.save(buf, format='PNG')
