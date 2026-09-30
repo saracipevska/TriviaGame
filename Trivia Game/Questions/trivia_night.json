@@ -681,6 +681,108 @@
         "image": "/static/images/flags/saint_kitts_and_nevis.png"
       }
     ],
+    "Currencies of the World": [
+      {
+        "question": "What is the currency of Japan?",
+        "answer": "Yen"
+      },
+      {
+        "question": "What is the currency of Switzerland?",
+        "answer": "Swiss franc"
+      },
+      {
+        "question": "What is the currency of South Korea?",
+        "answer": "Won"
+      },
+      {
+        "question": "What is the currency of Brazil?",
+        "answer": "Brazilian real"
+      },
+      {
+        "question": "What is the currency of India?",
+        "answer": "Indian rupee"
+      },
+      {
+        "question": "What is the currency of Thailand?",
+        "answer": "Baht"
+      },
+      {
+        "question": "What is the currency of Poland?",
+        "answer": "Złoty"
+      },
+      {
+        "question": "What is the currency of Hungary?",
+        "answer": "Forint"
+      },
+      {
+        "question": "What is the currency of Vietnam?",
+        "answer": "Đồng"
+      },
+      {
+        "question": "What is the currency of South Africa?",
+        "answer": "Rand"
+      },
+      {
+        "question": "Which currency uses the symbol £?",
+        "answer": "Pound sterling"
+      },
+      {
+        "question": "Which currency uses the symbol ¥?",
+        "answer": "Japanese yen (the Chinese yuan uses it too)"
+      },
+      {
+        "question": "Whose portrait appeared on British banknotes for decades, before King Charles III notes arrived in 2024?",
+        "answer": "Queen Elizabeth II"
+      },
+      {
+        "question": "Which scientist appears on the current British £50 note?",
+        "answer": "Alan Turing"
+      },
+      {
+        "question": "Which famous building is shown on the back of the US $20 bill?",
+        "answer": "The White House"
+      },
+      {
+        "question": "Which Australian animal appears on the Australian 1-dollar coin?",
+        "answer": "Kangaroo"
+      },
+      {
+        "question": "What is the smallest euro banknote currently in circulation?",
+        "answer": "€5"
+      },
+      {
+        "question": "What is the smallest euro coin?",
+        "answer": "1 cent"
+      },
+      {
+        "question": "Which country's 1-dollar coin shows a loon and is nicknamed the \"loonie\"?",
+        "answer": "Canada"
+      },
+      {
+        "question": "What is the nickname of the US one-dollar bill?",
+        "answer": "Greenback"
+      },
+      {
+        "question": "What was the currency of Germany before the euro?",
+        "answer": "Deutsche Mark"
+      },
+      {
+        "question": "What was the currency of Italy before the euro?",
+        "answer": "Italian lira"
+      },
+      {
+        "question": "Which ancient kingdom is generally credited with producing some of the earliest known coins?",
+        "answer": "Lydia"
+      },
+      {
+        "question": "What material are modern US banknotes mainly made from?",
+        "answer": "Cotton and linen"
+      },
+      {
+        "question": "Which country was the first to use polymer (plastic) banknotes?",
+        "answer": "Australia"
+      }
+    ],
     "2010s Pop Culture": [
       {
         "question": "Which song became the first YouTube video to reach 1 billion views, in 2012?",
