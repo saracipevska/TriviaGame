@@ -516,6 +516,48 @@ button {
     word-break: break-word;
 }
 
+/* Optional question picture */
+.q-image {
+    display: block;
+    max-width: 100%;
+    max-height: 240px;
+    margin: -16px auto 24px;
+    border-radius: 8px;
+    border: 2px solid var(--border);
+    background: #ffffff;
+    object-fit: contain;
+}
+
+/* Optional multiple-choice options */
+.q-options {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    max-width: 720px;
+    margin: 0 auto 28px;
+    text-align: left;
+}
+.q-option {
+    background: var(--bg3);
+    border: 2px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 16px;
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--white);
+}
+@media (max-width: 600px) {
+    .q-options { grid-template-columns: 1fr; }
+}
+
+/* Fun fact under the answer */
+.a-fact {
+    margin-top: 12px;
+    font-size: 1.05rem;
+    color: var(--muted);
+    line-height: 1.5;
+}
+
 /* Answer section */
 .answer-section {
     background: rgba(232, 112, 0, 0.12);

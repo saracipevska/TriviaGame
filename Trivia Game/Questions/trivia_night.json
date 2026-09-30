@@ -1,0 +1,889 @@
+{
+  "topics": {
+    "Mythology": [
+      {
+        "question": "Who is the Greek god of the sea?",
+        "options": [
+          "Hades",
+          "Poseidon",
+          "Apollo",
+          "Hermes"
+        ],
+        "answer": "Poseidon",
+        "fun_fact": "He was also the god of earthquakes and horses."
+      },
+      {
+        "question": "Who is the wife of Zeus and the queen of the gods?",
+        "options": [
+          "Athena",
+          "Aphrodite",
+          "Demeter",
+          "Hera"
+        ],
+        "answer": "Hera",
+        "fun_fact": "The Romans called her Juno, and the month of June is named after her."
+      },
+      {
+        "question": "How was the goddess Athena born?",
+        "options": [
+          "Fully grown from Zeus's head",
+          "From the sea foam",
+          "From a golden egg",
+          "From Hera's tears"
+        ],
+        "answer": "Fully grown from Zeus's head",
+        "fun_fact": "She had no mother. Hephaestus split Zeus's head open with an axe to let her out."
+      },
+      {
+        "question": "What gift did Athena give the city of Athens?",
+        "options": [
+          "A spring of water",
+          "A grapevine",
+          "The olive tree",
+          "A golden owl"
+        ],
+        "answer": "The olive tree",
+        "fun_fact": "Poseidon offered a salt-water spring, but the city chose Athena's gift and named itself after her."
+      },
+      {
+        "question": "Who stole fire from the gods to give it to humanity?",
+        "options": [
+          "Hermes",
+          "Epimetheus",
+          "Hephaestus",
+          "Prometheus"
+        ],
+        "answer": "Prometheus",
+        "fun_fact": "As punishment, an eagle ate his liver every day, and it grew back every night."
+      },
+      {
+        "question": "Which Titan was punished by Zeus by having to hold up the heavens on his shoulders for eternity?",
+        "options": [
+          "Prometheus",
+          "Cronus",
+          "Atlas",
+          "Hyperion"
+        ],
+        "answer": "Atlas",
+        "fun_fact": "The Atlantic Ocean and books of maps are both named after him."
+      },
+      {
+        "question": "Which god of wine, parties and theatre was \"born twice\", the second time from Zeus's thigh?",
+        "options": [
+          "Apollo",
+          "Dionysus",
+          "Hermes",
+          "Pan"
+        ],
+        "answer": "Dionysus",
+        "fun_fact": "The Romans called him Bacchus, which is where the word \"bacchanal\" (a wild party) comes from."
+      },
+      {
+        "question": "Who was the first woman in Greek mythology, created by the gods and given a jar she was told never to open?",
+        "options": [
+          "Persephone",
+          "Psyche",
+          "Pandora",
+          "Gaia"
+        ],
+        "answer": "Pandora",
+        "fun_fact": "Her name means \"all-gifted\"."
+      },
+      {
+        "question": "What was the only thing left inside Pandora's jar after all the evils of the world escaped?",
+        "options": [
+          "Hope",
+          "Love",
+          "Death",
+          "Wisdom"
+        ],
+        "answer": "Hope",
+        "fun_fact": "In the original myth it was a jar. The \"box\" comes from a 16th-century mistranslation."
+      },
+      {
+        "question": "Who is Odysseus's wife, famous for her patience and cunning?",
+        "options": [
+          "Helen",
+          "Penelope",
+          "Andromache",
+          "Clytemnestra"
+        ],
+        "answer": "Penelope",
+        "fun_fact": "She kept her suitors away for 20 years by weaving a shroud by day and secretly unravelling it every night."
+      },
+      {
+        "question": "Which king was punished in Tartarus by rolling a boulder uphill for eternity?",
+        "options": [
+          "Tantalus",
+          "Ixion",
+          "Minos",
+          "Sisyphus"
+        ],
+        "answer": "Sisyphus",
+        "fun_fact": "His crime was cheating death, twice."
+      },
+      {
+        "question": "What mythical creature has the head of a bull and the body of a man?",
+        "options": [
+          "The Minotaur",
+          "The Centaur",
+          "The Satyr",
+          "The Chimera"
+        ],
+        "answer": "The Minotaur",
+        "fun_fact": "It lived in the Labyrinth on Crete until the hero Theseus killed it."
+      },
+      {
+        "question": "What is the name of the one-eyed giant in Greek mythology?",
+        "options": [
+          "Titan",
+          "Centaur",
+          "Cyclops",
+          "Satyr"
+        ],
+        "answer": "Cyclops",
+        "fun_fact": "Odysseus escaped the Cyclops Polyphemus by blinding him and telling him his name was \"Nobody\"."
+      },
+      {
+        "question": "Which Greek monster, with snakes for hair and a gaze that turns people to stone, was born a mortal woman before the goddess Athena cursed her?",
+        "options": [
+          "Scylla",
+          "Medusa",
+          "Echidna",
+          "Lamia"
+        ],
+        "answer": "Medusa",
+        "fun_fact": "The hero Perseus beheaded her, using a polished shield as a mirror."
+      },
+      {
+        "question": "What many-headed Greek beast grew back two heads for every head that was cut off?",
+        "options": [
+          "Cerberus",
+          "The Griffin",
+          "The Hydra",
+          "The Gorgon"
+        ],
+        "answer": "The Hydra",
+        "fun_fact": "Heracles defeated it by having his nephew burn each neck stump."
+      },
+      {
+        "question": "Which monster, with a lion's body and a human head, killed anyone who couldn't solve her riddle about the stages of human life?",
+        "options": [
+          "The Manticore",
+          "The Sphinx",
+          "The Siren",
+          "The Harpy"
+        ],
+        "answer": "The Sphinx",
+        "fun_fact": "Oedipus solved the riddle, and the answer was \"a human\": crawling as a baby, walking as an adult, and using a cane in old age."
+      },
+      {
+        "question": "In Roman myth, what were the names of the twin brothers who were rescued by a she-wolf and went on to found Rome?",
+        "options": [
+          "Castor and Pollux",
+          "Apollo and Artemis",
+          "Romulus and Remus",
+          "Aeneas and Ascanius"
+        ],
+        "answer": "Romulus and Remus",
+        "fun_fact": "Romulus killed Remus in an argument, and the city was named after him."
+      },
+      {
+        "question": "What is the Roman equivalent of Zeus?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Neptune",
+          "Apollo"
+        ],
+        "answer": "Jupiter",
+        "fun_fact": "The largest planet in the solar system is named after him."
+      },
+      {
+        "question": "Which Roman god of war was the father of Romulus and Remus, and gave his name to both a month and a planet?",
+        "options": [
+          "Vulcan",
+          "Mars",
+          "Janus",
+          "Jupiter"
+        ],
+        "answer": "Mars",
+        "fun_fact": "March was originally the first month of the Roman year, because it was when military campaigns began."
+      },
+      {
+        "question": "Which jackal-headed Egyptian god watched over mummification and the dead?",
+        "options": [
+          "Thoth",
+          "Horus",
+          "Set",
+          "Anubis"
+        ],
+        "answer": "Anubis",
+        "fun_fact": "Priests sometimes wore Anubis masks while mummifying the dead."
+      },
+      {
+        "question": "He is the king of the underworld and the judge of the dead, always shown as a mummified king with green skin, a symbol of rebirth and agriculture. Who is he?",
+        "options": [
+          "Osiris",
+          "Ra",
+          "Horus",
+          "Set"
+        ],
+        "answer": "Osiris",
+        "fun_fact": "He was murdered by his jealous brother Set, and his wife Isis brought him back to life."
+      },
+      {
+        "question": "In the Egyptian \"weighing of the heart\", what was the dead person's heart weighed against?",
+        "options": [
+          "The Eye of Horus",
+          "A golden scarab",
+          "The feather of Ma'at",
+          "An ankh"
+        ],
+        "answer": "The feather of Ma'at",
+        "fun_fact": "A heart heavier than the feather was eaten by the monster Ammit."
+      },
+      {
+        "question": "Why does Thor's hammer Mjölnir have an unusually short handle?",
+        "options": [
+          "The dwarves ran out of iron",
+          "Thor snapped it fighting a giant",
+          "Odin ordered it so only Thor could lift it",
+          "Loki, disguised as a fly, bit the dwarf forging it"
+        ],
+        "answer": "Loki, disguised as a fly, bit the dwarf forging it",
+        "fun_fact": "Loki had bet his own head that the dwarves couldn't make better treasures than his favourite smiths."
+      },
+      {
+        "question": "Which Slavic witch lives in a hut that stands on chicken legs?",
+        "options": [
+          "Baba Yaga",
+          "Rusalka",
+          "Mokosh",
+          "Kikimora"
+        ],
+        "answer": "Baba Yaga",
+        "fun_fact": "She flies around in a large mortar and steers with a pestle."
+      },
+      {
+        "question": "Which Slavic goddess of spring and youth, known from Slovenian folklore, has a name that is an old Slavic word for spring?",
+        "options": [
+          "Morana",
+          "Vesna",
+          "Lada",
+          "Mokosh"
+        ],
+        "answer": "Vesna",
+        "fun_fact": "Her opposite is Morana, the goddess of winter. In Poland she's called Marzanna, and people still drown a straw figure of her every spring to chase winter away."
+      }
+    ],
+    "Cartoons": [
+      {
+        "question": "In \"SpongeBob SquarePants\", what is the name of Plankton's computer wife?",
+        "answer": "Karen"
+      },
+      {
+        "question": "What is the name of Popeye's girlfriend?",
+        "answer": "Olive Oyl"
+      },
+      {
+        "question": "What is special about how Uško looks?",
+        "answer": "He has one floppy ear"
+      },
+      {
+        "question": "Who created Smurfette?",
+        "answer": "Gargamel"
+      },
+      {
+        "question": "Who is the bald hunter who is always trying to shoot Bugs Bunny?",
+        "answer": "Elmer Fudd"
+      },
+      {
+        "question": "Which company makes all of Wile E. Coyote's gadgets that never work?",
+        "answer": "ACME"
+      },
+      {
+        "question": "What does Calimero wear on his head?",
+        "answer": "Half an eggshell"
+      },
+      {
+        "question": "What are the English names of Donald Duck's three nephews?",
+        "answer": "Huey, Dewey and Louie"
+      },
+      {
+        "question": "In which town do the Flintstones live?",
+        "answer": "Bedrock"
+      },
+      {
+        "question": "Heidi meets a girl in a wheelchair in Frankfurt who becomes her best friend. What is her name?",
+        "answer": "Klara"
+      },
+      {
+        "question": "Who was the original voice of Mickey Mouse?",
+        "answer": "Walt Disney himself"
+      },
+      {
+        "question": "What is the name of the wicked stepmother's cat in \"Cinderella\"?",
+        "answer": "Lucifer"
+      },
+      {
+        "question": "What gives Dumbo the confidence to fly?",
+        "answer": "A \"magic\" feather"
+      },
+      {
+        "question": "What are the names of Wendy's two younger brothers in \"Peter Pan\"?",
+        "answer": "John and Michael"
+      },
+      {
+        "question": "What is the one thing Peter Pan never wants to do?",
+        "answer": "Grow up"
+      },
+      {
+        "question": "Name one of Jagodica Bobica's best friends.",
+        "answer": "Blueberry Muffin (Huckleberry Pie, Orange Blossom and Lemon Meringue also count)"
+      },
+      {
+        "question": "What is Noddy's job?",
+        "answer": "Taxi driver"
+      },
+      {
+        "question": "What is on top of Noddy's blue hat?",
+        "answer": "A bell"
+      },
+      {
+        "question": "What is the name of the silly dog who lives with Garfield?",
+        "answer": "Odie"
+      },
+      {
+        "question": "Which country does Paddington Bear come from?",
+        "answer": "Peru"
+      },
+      {
+        "question": "How many Teletubbies are there?",
+        "answer": "4"
+      },
+      {
+        "question": "In which city is \"The Aristocats\" set?",
+        "answer": "Paris"
+      },
+      {
+        "question": "What is Casper's biggest problem?",
+        "answer": "He wants friends, but people run away scared"
+      },
+      {
+        "question": "What is the name of the little grey mouse in a nappy who lives with Jerry?",
+        "answer": "Nibbles (later renamed Tuffy)"
+      },
+      {
+        "question": "What is Winnie-the-Pooh's favourite food?",
+        "answer": "Honey"
+      }
+    ],
+    "Flags of the World": [
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Bhutan",
+          "India",
+          "Nepal",
+          "Bangladesh"
+        ],
+        "answer": "Nepal",
+        "fun_fact": "It's the only national flag in the world that isn't a rectangle.",
+        "image": "/static/images/flags/nepal.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Sri Lanka",
+          "India",
+          "Myanmar",
+          "Bhutan"
+        ],
+        "answer": "Sri Lanka",
+        "fun_fact": "The lion holds a sword, and the four leaves in the corners are from the sacred Bodhi tree.",
+        "image": "/static/images/flags/sri_lanka.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Italy",
+          "Hungary",
+          "Mexico",
+          "Ireland"
+        ],
+        "answer": "Mexico",
+        "fun_fact": "The eagle eating a snake on a cactus comes from the Aztec legend of how Mexico City was founded.",
+        "image": "/static/images/flags/mexico.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Madagascar",
+          "Mauritius",
+          "Seychelles",
+          "Maldives"
+        ],
+        "answer": "Seychelles",
+        "fun_fact": "The five rays fan out from the corner to show a young country moving into the future.",
+        "image": "/static/images/flags/seychelles.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Uganda",
+          "Burundi",
+          "Jamaica",
+          "Rwanda"
+        ],
+        "answer": "Burundi",
+        "fun_fact": "The three stars stand for the national motto: Unity, Work, Progress.",
+        "image": "/static/images/flags/burundi.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Peru",
+          "Lebanon",
+          "Canada",
+          "Austria"
+        ],
+        "answer": "Lebanon",
+        "fun_fact": "The cedar tree is a symbol of Lebanon - cedars of Lebanon are mentioned dozens of times in the Bible.",
+        "image": "/static/images/flags/lebanon.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Cuba",
+          "Honduras",
+          "Uruguay",
+          "Puerto Rico"
+        ],
+        "answer": "Cuba",
+        "fun_fact": "Puerto Rico's flag has the same design with the colours swapped.",
+        "image": "/static/images/flags/cuba.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Denmark",
+          "Finland",
+          "Iceland",
+          "Norway"
+        ],
+        "answer": "Iceland",
+        "fun_fact": "Blue for the sea and mountains, white for ice and snow, red for volcanic fire.",
+        "image": "/static/images/flags/iceland.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Cuba",
+          "Panama",
+          "Dominican Republic",
+          "Costa Rica"
+        ],
+        "answer": "Panama",
+        "fun_fact": "The blue and red stand for the country's two old political parties, and the white for peace between them.",
+        "image": "/static/images/flags/panama.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Singapore",
+          "Malaysia",
+          "Liberia",
+          "USA"
+        ],
+        "answer": "Malaysia",
+        "fun_fact": "It has 14 stripes: one for each of the 13 states and one for the federal territories.",
+        "image": "/static/images/flags/malaysia.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Poland",
+          "Japan",
+          "Indonesia",
+          "Austria"
+        ],
+        "answer": "Poland",
+        "fun_fact": "Indonesia and Monaco use the same colours, but upside down: red on top, white below.",
+        "image": "/static/images/flags/poland.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Moldova",
+          "Chad",
+          "Belgium",
+          "Romania"
+        ],
+        "answer": "Moldova",
+        "fun_fact": "It's almost the same as Romania's flag, but with an eagle coat of arms in the middle.",
+        "image": "/static/images/flags/moldova.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Venezuela",
+          "Ecuador",
+          "Bolivia",
+          "Colombia"
+        ],
+        "answer": "Colombia",
+        "fun_fact": "The yellow stripe takes up the whole top half of the flag.",
+        "image": "/static/images/flags/colombia.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Equatorial Guinea",
+          "Gabon",
+          "Cameroon",
+          "Guinea"
+        ],
+        "answer": "Equatorial Guinea",
+        "fun_fact": "The six stars stand for the mainland and five islands. It's the only African country where Spanish is an official language.",
+        "image": "/static/images/flags/equatorial_guinea.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Poland",
+          "Indonesia",
+          "Singapore",
+          "Japan"
+        ],
+        "answer": "Indonesia",
+        "fun_fact": "It's almost identical to Monaco's flag - only the proportions are different.",
+        "image": "/static/images/flags/indonesia.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Philippines",
+          "Czechia",
+          "Liberia",
+          "Chile"
+        ],
+        "answer": "Chile",
+        "fun_fact": "It's nicknamed 'La Estrella Solitaria' - The Lone Star. It looks a lot like the flag of Texas.",
+        "image": "/static/images/flags/chile.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Kuwait",
+          "United Arab Emirates",
+          "Sudan",
+          "Jordan"
+        ],
+        "answer": "Kuwait",
+        "fun_fact": "It uses the four Pan-Arab colours and was adopted in 1961, when Kuwait became independent.",
+        "image": "/static/images/flags/kuwait.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Croatia",
+          "France",
+          "Luxembourg",
+          "Slovakia"
+        ],
+        "answer": "Luxembourg",
+        "fun_fact": "It looks almost the same as the Dutch flag, but its blue is lighter and the flag is longer.",
+        "image": "/static/images/flags/luxembourg.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Mongolia",
+          "Nepal",
+          "China",
+          "Bhutan"
+        ],
+        "answer": "Bhutan",
+        "fun_fact": "The dragon is Druk, the 'Thunder Dragon'. Bhutan calls itself the Land of the Thunder Dragon.",
+        "image": "/static/images/flags/bhutan.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "France",
+          "Netherlands",
+          "Luxembourg",
+          "Russia"
+        ],
+        "answer": "Russia",
+        "fun_fact": "It was first used on merchant ships in the late 1600s.",
+        "image": "/static/images/flags/russia.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Malta",
+          "Switzerland",
+          "San Marino",
+          "Vatican City"
+        ],
+        "answer": "Vatican City",
+        "fun_fact": "It's one of only two square national flags - the other is Switzerland's. It shows the keys of Saint Peter.",
+        "image": "/static/images/flags/vatican_city.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Mozambique",
+          "Kenya",
+          "Zimbabwe",
+          "Angola"
+        ],
+        "answer": "Mozambique",
+        "fun_fact": "It's the only national flag with a modern rifle on it - an AK-47, crossed with a hoe on top of a book.",
+        "image": "/static/images/flags/mozambique.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Georgia",
+          "Malta",
+          "Switzerland",
+          "Monaco"
+        ],
+        "answer": "Malta",
+        "fun_fact": "The small cross in the corner is the George Cross, given to the whole island by King George VI for bravery in World War II.",
+        "image": "/static/images/flags/malta.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Kosovo",
+          "Greece",
+          "Cyprus",
+          "Malta"
+        ],
+        "answer": "Cyprus",
+        "fun_fact": "It shows a map of the island with two olive branches for peace. Only Kosovo's flag also shows a map of the country.",
+        "image": "/static/images/flags/cyprus.png"
+      },
+      {
+        "question": "Which country's flag is this?",
+        "options": [
+          "Saint Lucia",
+          "Antigua and Barbuda",
+          "Grenada",
+          "Saint Kitts and Nevis"
+        ],
+        "answer": "Saint Kitts and Nevis",
+        "fun_fact": "The two white stars stand for hope and liberty - or for the two islands.",
+        "image": "/static/images/flags/saint_kitts_and_nevis.png"
+      }
+    ],
+    "2010s Pop Culture": [
+      {
+        "question": "Which song became the first YouTube video to reach 1 billion views, in 2012?",
+        "answer": "Gangnam Style (PSY)"
+      },
+      {
+        "question": "Which two artists released \"Despacito\" in 2017?",
+        "answer": "Luis Fonsi and Daddy Yankee"
+      },
+      {
+        "question": "Whose song \"Old Town Road\" spent a record 19 weeks at No. 1 in the US in 2019?",
+        "answer": "Lil Nas X"
+      },
+      {
+        "question": "Which British artist had a massive 2011 hit with \"Rolling in the Deep\"?",
+        "answer": "Adele"
+      },
+      {
+        "question": "In the lead single from her 2014 album \"1989\", Taylor Swift tells the \"haters\" to do what?",
+        "answer": "Shake it off"
+      },
+      {
+        "question": "The Chainsmokers' 2016 hit \"Closer\" features lead vocals by Drew Taggart and which female artist?",
+        "answer": "Halsey"
+      },
+      {
+        "question": "Irish musician Hozier released which Grammy-nominated breakout hit in 2013?",
+        "answer": "Take Me to Church"
+      },
+      {
+        "question": "Lady Gaga and Bradley Cooper sang which hit together in the 2018 movie \"A Star Is Born\"?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Which one-word 2016 hit by Rihanna and Drake repeats its title again and again?",
+        "answer": "Work"
+      },
+      {
+        "question": "Which Swedish DJ was behind the hits \"Levels\" (2011) and \"Wake Me Up\" (2013)?",
+        "answer": "Avicii"
+      },
+      {
+        "question": "Who won Eurovision 2014 for Austria, performing with a beard and a gown?",
+        "answer": "Conchita Wurst"
+      },
+      {
+        "question": "Which member was the first to leave One Direction, in 2015?",
+        "answer": "Zayn Malik"
+      },
+      {
+        "question": "How long did Kim Kardashian's 2011 marriage to Kris Humphries last?",
+        "answer": "72 days"
+      },
+      {
+        "question": "At the 2015 MTV VMAs, Kanye West announced he would run for what?",
+        "answer": "President of the United States"
+      },
+      {
+        "question": "In which year did Pokémon Go come out and send millions of people onto the streets?",
+        "answer": "2016"
+      },
+      {
+        "question": "Which app, launched in 2013, only allowed videos that were 6 seconds long?",
+        "answer": "Vine"
+      },
+      {
+        "question": "Which 2012 game had everyone matching sweets and sending each other requests for lives on Facebook?",
+        "answer": "Candy Crush Saga"
+      },
+      {
+        "question": "Which selfie camera app left its name as a watermark in the corner of everyone's photos around 2014?",
+        "answer": "Retrica"
+      },
+      {
+        "question": "What did the hashtag #TBT stand for on Instagram and Facebook?",
+        "answer": "Throwback Thursday"
+      },
+      {
+        "question": "In 2019, the most-liked photo in Instagram history was a picture of what?",
+        "answer": "An ordinary egg"
+      },
+      {
+        "question": "Which spinning toy took over schools and offices in 2017?",
+        "answer": "Fidget spinner"
+      },
+      {
+        "question": "In 2012, Felix Baumgartner jumped from the edge of space in a record-breaking skydive. Which brand sponsored the jump?",
+        "answer": "Red Bull"
+      },
+      {
+        "question": "In 2018, what did Elon Musk launch into space on SpaceX's Falcon Heavy rocket?",
+        "answer": "His own Tesla car, with a dummy \"Starman\" in the driver's seat"
+      },
+      {
+        "question": "Which famous Paris landmark was badly damaged by fire in April 2019?",
+        "answer": "Notre-Dame Cathedral"
+      },
+      {
+        "question": "In 2015, the whole internet argued about whether a photo of a dress was white and gold or blue and black. What colours was it actually?",
+        "answer": "Blue and black"
+      }
+    ],
+    "Friends": [
+      {
+        "question": "What is the name of Ross's pet monkey?",
+        "answer": "Marcel"
+      },
+      {
+        "question": "What is Chandler Bing's middle name?",
+        "answer": "Muriel"
+      },
+      {
+        "question": "In \"The One with the Embryos\", what does Rachel guess Chandler's job is?",
+        "answer": "A transponster"
+      },
+      {
+        "question": "What did Monica and Rachel lose in the trivia bet against Joey and Chandler?",
+        "answer": "Their apartment"
+      },
+      {
+        "question": "What is the name of Joey's stuffed penguin?",
+        "answer": "Hugsy"
+      },
+      {
+        "question": "How many times has Ross been divorced by the end of the series?",
+        "answer": "3 (Carol, Emily and Rachel)"
+      },
+      {
+        "question": "What is the name of Phoebe's twin sister?",
+        "answer": "Ursula"
+      },
+      {
+        "question": "What is the name of Joey's character on \"Days of Our Lives\"?",
+        "answer": "Dr. Drake Ramoray"
+      },
+      {
+        "question": "What is the name of Joey's chain-smoking agent?",
+        "answer": "Estelle Leonard"
+      },
+      {
+        "question": "What does Rachel name the hairless cat she buys?",
+        "answer": "Mrs. Whiskerson"
+      },
+      {
+        "question": "What word does Ross keep shouting while moving a couch up the stairs?",
+        "answer": "Pivot!"
+      },
+      {
+        "question": "In \"The One with All the Thanksgivings\", what does Monica put on her head to make Chandler laugh?",
+        "answer": "A turkey"
+      },
+      {
+        "question": "What was the name of the copy-place girl Ross slept with while \"on a break\"?",
+        "answer": "Chloe"
+      },
+      {
+        "question": "Who ends up renting Ugly Naked Guy's apartment?",
+        "answer": "Ross"
+      },
+      {
+        "question": "What goes into Rachel's Thanksgiving trifle by mistake?",
+        "answer": "Beef sautéed with peas and onions"
+      },
+      {
+        "question": "What are the names of Monica and Chandler's twins?",
+        "answer": "Jack and Erica"
+      },
+      {
+        "question": "What are the names of Phoebe's triplets?",
+        "answer": "Frank Jr. Jr., Leslie and Chandler"
+      },
+      {
+        "question": "Which actress played Rachel's sister Jill?",
+        "answer": "Reese Witherspoon"
+      },
+      {
+        "question": "Brad Pitt guest-starred as Will, who co-founded what with Ross in high school?",
+        "answer": "The I Hate Rachel Green Club"
+      },
+      {
+        "question": "In which sport does Monica's millionaire boyfriend Pete Becker compete?",
+        "answer": "Ultimate fighting"
+      },
+      {
+        "question": "Which creepy roommate moves in with Chandler when Joey moves out in Season 2?",
+        "answer": "Eddie"
+      },
+      {
+        "question": "Which made-up game does Joey invent to \"lose\" money to Chandler and help him pay rent?",
+        "answer": "Cups"
+      },
+      {
+        "question": "What is the name of the man Rachel leaves at the altar in the first episode?",
+        "answer": "Barry"
+      },
+      {
+        "question": "In which city do Ross and Emily get married?",
+        "answer": "London"
+      },
+      {
+        "question": "When Phoebe changes her name after marrying Mike, what does she briefly choose?",
+        "answer": "Princess Consuela Banana-Hammock"
+      }
+    ]
+  }
+}

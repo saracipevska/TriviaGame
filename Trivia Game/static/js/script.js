@@ -240,6 +240,37 @@ function openQuestion(idx) {
     document.getElementById('q-text').textContent = q.question;
     document.getElementById('a-text').textContent = q.answer;
 
+    // Optional picture: file path (e.g. /static/images/flags/nepal.png), web link or data URL
+    const img = document.getElementById('q-image');
+    const imgSrc = q.image || q.img || q.imageUrl || q.image_url || '';
+    if (imgSrc) {
+        img.src = imgSrc;
+        img.classList.remove('hidden');
+    } else {
+        img.removeAttribute('src');
+        img.classList.add('hidden');
+    }
+
+    // Optional multiple-choice options (shown as A, B, C, D)
+    const optBox = document.getElementById('q-options');
+    optBox.innerHTML = '';
+    if (Array.isArray(q.options) && q.options.length) {
+        q.options.forEach((opt, i) => {
+            const div = document.createElement('div');
+            div.className = 'q-option';
+            div.textContent = `${String.fromCharCode(65 + i)}) ${opt}`;
+            optBox.appendChild(div);
+        });
+        optBox.classList.remove('hidden');
+    } else {
+        optBox.classList.add('hidden');
+    }
+
+    // Optional fun fact, shown together with the answer
+    const fact = document.getElementById('a-fact');
+    fact.textContent = q.fun_fact || '';
+    fact.classList.toggle('hidden', !q.fun_fact);
+
     // Reset view: answer hidden, Finish hidden, Reveal visible
     document.getElementById('answer-section').classList.add('hidden');
     document.getElementById('btn-reveal-answer').classList.remove('hidden');
